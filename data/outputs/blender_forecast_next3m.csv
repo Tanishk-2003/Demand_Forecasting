@@ -1,0 +1,1486 @@
+series_id,Channel,Category,Customer Segment,Forecast Month,Forecast
+CG|1 Jar|Key Account,CG,1 Jar,Key Account,2025-04,183.80892779517455
+CG|2 Jars|Key Account,CG,2 Jars,Key Account,2025-04,182.14368424778195
+CG|3 Jars|Key Account,CG,3 Jars,Key Account,2025-04,71.17964606449645
+CG|Blender|Key Account,CG,Blender,Key Account,2025-04,0.022763699588951237
+CG|CKM|Key Account,CG,CKM,Key Account,2025-04,64.61555602255252
+CG|Combos|Key Account,CG,Combos,Key Account,2025-04,0.016839994425713354
+CG|FP|Key Account,CG,FP,Key Account,2025-04,0.013787605444557042
+CG|Gift Combos|Key Account,CG,Gift Combos,Key Account,2025-04,0.016839994425713354
+CG|NB Smart 2 Jar|Key Account,CG,NB Smart 2 Jar,Key Account,2025-04,22.21407816366725
+CG|NB Smart 3 Jar|Key Account,CG,NB Smart 3 Jar,Key Account,2025-04,30.303315834909295
+CG|NB Smart CKM|Key Account,CG,NB Smart CKM,Key Account,2025-04,6.982120766761226
+CG|Personal Blender|Key Account,CG,Personal Blender,Key Account,2025-04,0.016839994425713354
+CG|Sipper Jar|Key Account,CG,Sipper Jar,Key Account,2025-04,0.020217341131948695
+CG|Storm|Key Account,CG,Storm,Key Account,2025-04,0.016839994425713354
+CG|Thunder|Key Account,CG,Thunder,Key Account,2025-04,0.016839994425713354
+CG|1 Jar|Regular,CG,1 Jar,Regular,2025-04,1166.8402399080778
+CG|2 Jars|Regular,CG,2 Jars,Regular,2025-04,838.8719812115199
+CG|3 Jars|Regular,CG,3 Jars,Regular,2025-04,102.23960165291042
+CG|Blender|Regular,CG,Blender,Regular,2025-04,0.02117725630121961
+CG|CKM|Regular,CG,CKM,Regular,2025-04,434.9073999161816
+CG|Combos|Regular,CG,Combos,Regular,2025-04,0.02085321609940126
+CG|FP|Regular,CG,FP,Regular,2025-04,21.67985440074955
+CG|Gift Combos|Regular,CG,Gift Combos,Regular,2025-04,0.02085321609940126
+CG|NB Smart 2 Jar|Regular,CG,NB Smart 2 Jar,Regular,2025-04,21.823706285451532
+CG|NB Smart 3 Jar|Regular,CG,NB Smart 3 Jar,Regular,2025-04,30.26449124513827
+CG|NB Smart CKM|Regular,CG,NB Smart CKM,Regular,2025-04,9.161953975294551
+CG|Personal Blender|Regular,CG,Personal Blender,Regular,2025-04,0.02085321609940126
+CG|Sipper Jar|Regular,CG,Sipper Jar,Regular,2025-04,0.02503543486547091
+CG|Storm|Regular,CG,Storm,Regular,2025-04,0.020727907994279097
+CG|Thunder|Regular,CG,Thunder,Regular,2025-04,0.021574215625496017
+CG|1 Jar|Top Account,CG,1 Jar,Top Account,2025-04,0.010548450885546394
+CG|2 Jars|Top Account,CG,2 Jars,Top Account,2025-04,0.014906483781054818
+CG|3 Jars|Top Account,CG,3 Jars,Top Account,2025-04,0.010312278981467415
+CG|Blender|Top Account,CG,Blender,Top Account,2025-04,0.015214298581520945
+CG|CKM|Top Account,CG,CKM,Top Account,2025-04,0.00982118678824298
+CG|Combos|Top Account,CG,Combos,Top Account,2025-04,0.010529224890951708
+CG|FP|Top Account,CG,FP,Top Account,2025-04,0.008980026817091721
+CG|Gift Combos|Top Account,CG,Gift Combos,Top Account,2025-04,0.010529224890951708
+CG|NB Smart 2 Jar|Top Account,CG,NB Smart 2 Jar,Top Account,2025-04,0.007882848254092778
+CG|NB Smart 3 Jar|Top Account,CG,NB Smart 3 Jar,Top Account,2025-04,0.009695655063173577
+CG|NB Smart CKM|Top Account,CG,NB Smart CKM,Top Account,2025-04,0.0062412526232138495
+CG|Personal Blender|Top Account,CG,Personal Blender,Top Account,2025-04,0.010529224890951708
+CG|Sipper Jar|Top Account,CG,Sipper Jar,Top Account,2025-04,0.012493774102781954
+CG|Storm|Top Account,CG,Storm,Top Account,2025-04,0.010529224890951708
+CG|Thunder|Top Account,CG,Thunder,Top Account,2025-04,0.010529224890951708
+Canteen|1 Jar|Key Account,Canteen,1 Jar,Key Account,2025-04,0.01066476788992041
+Canteen|2 Jars|Key Account,Canteen,2 Jars,Key Account,2025-04,0.015619741235391251
+Canteen|3 Jars|Key Account,Canteen,3 Jars,Key Account,2025-04,0.011679079883602839
+Canteen|Blender|Key Account,Canteen,Blender,Key Account,2025-04,0.015730466183633197
+Canteen|CKM|Key Account,Canteen,CKM,Key Account,2025-04,0.01068194621826621
+Canteen|Combos|Key Account,Canteen,Combos,Key Account,2025-04,0.011636990806838318
+Canteen|FP|Key Account,Canteen,FP,Key Account,2025-04,0.009527689484364435
+Canteen|Gift Combos|Key Account,Canteen,Gift Combos,Key Account,2025-04,0.011636990806838318
+Canteen|NB Smart 2 Jar|Key Account,Canteen,NB Smart 2 Jar,Key Account,2025-04,0.008484694197910711
+Canteen|NB Smart 3 Jar|Key Account,Canteen,NB Smart 3 Jar,Key Account,2025-04,0.010715722192749941
+Canteen|NB Smart CKM|Key Account,Canteen,NB Smart CKM,Key Account,2025-04,0.008214588157772979
+Canteen|Personal Blender|Key Account,Canteen,Personal Blender,Key Account,2025-04,0.011636990806838318
+Canteen|Sipper Jar|Key Account,Canteen,Sipper Jar,Key Account,2025-04,0.013970848620470095
+Canteen|Storm|Key Account,Canteen,Storm,Key Account,2025-04,0.011636990806838318
+Canteen|Thunder|Key Account,Canteen,Thunder,Key Account,2025-04,0.011636990806838318
+Canteen|1 Jar|Regular,Canteen,1 Jar,Regular,2025-04,2.173774291019884
+Canteen|2 Jars|Regular,Canteen,2 Jars,Regular,2025-04,1618.1123312585826
+Canteen|3 Jars|Regular,Canteen,3 Jars,Regular,2025-04,441.1004943354111
+Canteen|Blender|Regular,Canteen,Blender,Regular,2025-04,0.01466864325555319
+Canteen|CKM|Regular,Canteen,CKM,Regular,2025-04,119.28347837877284
+Canteen|Combos|Regular,Canteen,Combos,Regular,2025-04,0.014444193494294091
+Canteen|FP|Regular,Canteen,FP,Regular,2025-04,1.572990657578782
+Canteen|Gift Combos|Regular,Canteen,Gift Combos,Regular,2025-04,0.014444193494294091
+Canteen|NB Smart 2 Jar|Regular,Canteen,NB Smart 2 Jar,Regular,2025-04,9.256757850938014
+Canteen|NB Smart 3 Jar|Regular,Canteen,NB Smart 3 Jar,Regular,2025-04,0.01501328323767526
+Canteen|NB Smart CKM|Regular,Canteen,NB Smart CKM,Regular,2025-04,0.009834026392416888
+Canteen|Personal Blender|Regular,Canteen,Personal Blender,Regular,2025-04,0.014444193494294091
+Canteen|Sipper Jar|Regular,Canteen,Sipper Jar,Regular,2025-04,0.01734105011365807
+Canteen|Storm|Regular,Canteen,Storm,Regular,2025-04,0.014444193494294091
+Canteen|Thunder|Regular,Canteen,Thunder,Regular,2025-04,8.196895012884244
+Canteen|1 Jar|Top Account,Canteen,1 Jar,Top Account,2025-04,0.007436761378515251
+Canteen|2 Jars|Top Account,Canteen,2 Jars,Top Account,2025-04,0.00954021154657539
+Canteen|3 Jars|Top Account,Canteen,3 Jars,Top Account,2025-04,0.0077512772760543434
+Canteen|Blender|Top Account,Canteen,Blender,Top Account,2025-04,0.010726229786715615
+Canteen|CKM|Top Account,Canteen,CKM,Top Account,2025-04,0.006924033053807639
+Canteen|Combos|Top Account,Canteen,Combos,Top Account,2025-04,0.007423206863675433
+Canteen|FP|Top Account,Canteen,FP,Top Account,2025-04,0.006331007020460697
+Canteen|Gift Combos|Top Account,Canteen,Gift Combos,Top Account,2025-04,0.007423206863675433
+Canteen|NB Smart 2 Jar|Top Account,Canteen,NB Smart 2 Jar,Top Account,2025-04,0.005412364867479863
+Canteen|NB Smart 3 Jar|Top Account,Canteen,NB Smart 3 Jar,Top Account,2025-04,0.006835531955883044
+Canteen|NB Smart CKM|Top Account,Canteen,NB Smart CKM,Top Account,2025-04,0.005230080333008554
+Canteen|Personal Blender|Top Account,Canteen,Personal Blender,Top Account,2025-04,0.007423206863675433
+Canteen|Sipper Jar|Top Account,Canteen,Sipper Jar,Top Account,2025-04,0.008808233334694998
+Canteen|Storm|Top Account,Canteen,Storm,Top Account,2025-04,0.007423206863675433
+Canteen|Thunder|Top Account,Canteen,Thunder,Top Account,2025-04,0.007423206863675433
+DTH|1 Jar|Key Account,DTH,1 Jar,Key Account,2025-04,0.011576605919352612
+DTH|2 Jars|Key Account,DTH,2 Jars,Key Account,2025-04,0.016916177781799387
+DTH|3 Jars|Key Account,DTH,3 Jars,Key Account,2025-04,0.011890907845598077
+DTH|Blender|Key Account,DTH,Blender,Key Account,2025-04,0.017028596636183488
+DTH|CKM|Key Account,DTH,CKM,Key Account,2025-04,0.01159525299537575
+DTH|Combos|Key Account,DTH,Combos,Key Account,2025-04,0.012631953929838567
+DTH|FP|Key Account,DTH,FP,Key Account,2025-04,0.010342307270155704
+DTH|Gift Combos|Key Account,DTH,Gift Combos,Key Account,2025-04,0.012631953929838567
+DTH|NB Smart 2 Jar|Key Account,DTH,NB Smart 2 Jar,Key Account,2025-04,0.009095866789645928
+DTH|NB Smart 3 Jar|Key Account,DTH,NB Smart 3 Jar,Key Account,2025-04,0.011710143409197623
+DTH|NB Smart CKM|Key Account,DTH,NB Smart CKM,Key Account,2025-04,0.010813996797265968
+DTH|Personal Blender|Key Account,DTH,Personal Blender,Key Account,2025-04,0.012631953929838567
+DTH|Sipper Jar|Key Account,DTH,Sipper Jar,Key Account,2025-04,0.015165356668566072
+DTH|Storm|Key Account,DTH,Storm,Key Account,2025-04,0.012631953929838567
+DTH|Thunder|Key Account,DTH,Thunder,Key Account,2025-04,0.012631953929838567
+DTH|1 Jar|Regular,DTH,1 Jar,Regular,2025-04,20.842053981195743
+DTH|2 Jars|Regular,DTH,2 Jars,Regular,2025-04,170.106947736086
+DTH|3 Jars|Regular,DTH,3 Jars,Regular,2025-04,12.323608567566747
+DTH|Blender|Regular,DTH,Blender,Regular,2025-04,0.015879148544165812
+DTH|CKM|Regular,DTH,CKM,Regular,2025-04,19.765125785173748
+DTH|Combos|Regular,DTH,Combos,Regular,2025-04,0.01567917254573909
+DTH|FP|Regular,DTH,FP,Regular,2025-04,0.013070385840293668
+DTH|Gift Combos|Regular,DTH,Gift Combos,Regular,2025-04,0.01567917254573909
+DTH|NB Smart 2 Jar|Regular,DTH,NB Smart 2 Jar,Regular,2025-04,13.207595931406368
+DTH|NB Smart 3 Jar|Regular,DTH,NB Smart 3 Jar,Regular,2025-04,3.6597449761614924
+DTH|NB Smart CKM|Regular,DTH,NB Smart CKM,Regular,2025-04,4.719155283379877
+DTH|Personal Blender|Regular,DTH,Personal Blender,Regular,2025-04,0.01567917254573909
+DTH|Sipper Jar|Regular,DTH,Sipper Jar,Regular,2025-04,0.01882371050787705
+DTH|Storm|Regular,DTH,Storm,Regular,2025-04,0.015519048317738968
+DTH|Thunder|Regular,DTH,Thunder,Regular,2025-04,4.602630257233197
+DTH|1 Jar|Top Account,DTH,1 Jar,Top Account,2025-04,0.007977403982635887
+DTH|2 Jars|Top Account,DTH,2 Jars,Top Account,2025-04,0.01021020138201576
+DTH|3 Jars|Top Account,DTH,3 Jars,Top Account,2025-04,0.007798795890449788
+DTH|Blender|Top Account,DTH,Blender,Top Account,2025-04,0.01147446005951446
+DTH|CKM|Top Account,DTH,CKM,Top Account,2025-04,0.007427400994594701
+DTH|Combos|Top Account,DTH,Combos,Top Account,2025-04,0.00796286407269899
+DTH|FP|Top Account,DTH,FP,Top Account,2025-04,0.006791262761909694
+DTH|Gift Combos|Top Account,DTH,Gift Combos,Top Account,2025-04,0.00796286407269899
+DTH|NB Smart 2 Jar|Top Account,DTH,NB Smart 2 Jar,Top Account,2025-04,0.0057338042294659336
+DTH|NB Smart 3 Jar|Top Account,DTH,NB Smart 3 Jar,Top Account,2025-04,0.007381778049315938
+DTH|NB Smart CKM|Top Account,DTH,NB Smart CKM,Top Account,2025-04,0.006803880834794082
+DTH|Personal Blender|Top Account,DTH,Personal Blender,Top Account,2025-04,0.00796286407269899
+DTH|Sipper Jar|Top Account,DTH,Sipper Jar,Top Account,2025-04,0.00944858011542261
+DTH|Storm|Top Account,DTH,Storm,Top Account,2025-04,0.00796286407269899
+DTH|Thunder|Top Account,DTH,Thunder,Top Account,2025-04,0.00796286407269899
+EBO|1 Jar|Key Account,EBO,1 Jar,Key Account,2025-04,0.012908202860569064
+EBO|2 Jars|Key Account,EBO,2 Jars,Key Account,2025-04,0.018960256158949546
+EBO|3 Jars|Key Account,EBO,3 Jars,Key Account,2025-04,0.013275022957034383
+EBO|Blender|Key Account,EBO,Blender,Key Account,2025-04,0.019039518786111636
+EBO|CKM|Key Account,EBO,CKM,Key Account,2025-04,0.013065241627411312
+EBO|Combos|Key Account,EBO,Combos,Key Account,2025-04,0.014084942079538058
+EBO|FP|Key Account,EBO,FP,Key Account,2025-04,0.011531929238977941
+EBO|Gift Combos|Key Account,EBO,Gift Combos,Key Account,2025-04,0.014084942079538058
+EBO|NB Smart 2 Jar|Key Account,EBO,NB Smart 2 Jar,Key Account,2025-04,0.010325173075752378
+EBO|NB Smart 3 Jar|Key Account,EBO,NB Smart 3 Jar,Key Account,2025-04,0.012969875883773265
+EBO|NB Smart CKM|Key Account,EBO,NB Smart CKM,Key Account,2025-04,0.009884592393977959
+EBO|Personal Blender|Key Account,EBO,Personal Blender,Key Account,2025-04,0.014084942079538058
+EBO|Sipper Jar|Key Account,EBO,Sipper Jar,Key Account,2025-04,0.01690974899676658
+EBO|Storm|Key Account,EBO,Storm,Key Account,2025-04,0.014084942079538058
+EBO|Thunder|Key Account,EBO,Thunder,Key Account,2025-04,0.014084942079538058
+EBO|1 Jar|Regular,EBO,1 Jar,Regular,2025-04,49.32135767993728
+EBO|2 Jars|Regular,EBO,2 Jars,Regular,2025-04,202.05600462193377
+EBO|3 Jars|Regular,EBO,3 Jars,Regular,2025-04,39.75547823287106
+EBO|Blender|Regular,EBO,Blender,Regular,2025-04,0.01775433134470334
+EBO|CKM|Regular,EBO,CKM,Regular,2025-04,46.733055401465776
+EBO|Combos|Regular,EBO,Combos,Regular,2025-04,0.017482666449579194
+EBO|FP|Regular,EBO,FP,Regular,2025-04,11.514173792410732
+EBO|Gift Combos|Regular,EBO,Gift Combos,Regular,2025-04,0.017482666449579194
+EBO|NB Smart 2 Jar|Regular,EBO,NB Smart 2 Jar,Regular,2025-04,11.42553737651305
+EBO|NB Smart 3 Jar|Regular,EBO,NB Smart 3 Jar,Regular,2025-04,14.183909191284641
+EBO|NB Smart CKM|Regular,EBO,NB Smart CKM,Regular,2025-04,14.836384932297028
+EBO|Personal Blender|Regular,EBO,Personal Blender,Regular,2025-04,0.017482666449579194
+EBO|Sipper Jar|Regular,EBO,Sipper Jar,Regular,2025-04,0.02098890430554549
+EBO|Storm|Regular,EBO,Storm,Regular,2025-04,28.997851769388685
+EBO|Thunder|Regular,EBO,Thunder,Regular,2025-04,9.248165079224238
+EBO|1 Jar|Top Account,EBO,1 Jar,Top Account,2025-04,0.008895003390970914
+EBO|2 Jars|Top Account,EBO,2 Jars,Top Account,2025-04,0.011443958329981895
+EBO|3 Jars|Top Account,EBO,3 Jars,Top Account,2025-04,0.008706584545710012
+EBO|Blender|Top Account,EBO,Blender,Top Account,2025-04,0.012829489272145675
+EBO|CKM|Top Account,EBO,CKM,Top Account,2025-04,0.008369010033395154
+EBO|Combos|Top Account,EBO,Combos,Top Account,2025-04,0.008878791030599709
+EBO|FP|Top Account,EBO,FP,Top Account,2025-04,0.007572426497097277
+EBO|Gift Combos|Top Account,EBO,Gift Combos,Top Account,2025-04,0.008878791030599709
+EBO|NB Smart 2 Jar|Top Account,EBO,NB Smart 2 Jar,Top Account,2025-04,0.006508727801412925
+EBO|NB Smart 3 Jar|Top Account,EBO,NB Smart 3 Jar,Top Account,2025-04,0.008175881520459487
+EBO|NB Smart CKM|Top Account,EBO,NB Smart CKM,Top Account,2025-04,0.006219124160101606
+EBO|Personal Blender|Top Account,EBO,Personal Blender,Top Account,2025-04,0.008878791030599709
+EBO|Sipper Jar|Top Account,EBO,Sipper Jar,Top Account,2025-04,0.010535401284613697
+EBO|Storm|Top Account,EBO,Storm,Top Account,2025-04,0.008878791030599709
+EBO|Thunder|Top Account,EBO,Thunder,Top Account,2025-04,0.008878791030599709
+ECOM B2B|1 Jar|Key Account,ECOM B2B,1 Jar,Key Account,2025-04,2251.181828778994
+ECOM B2B|2 Jars|Key Account,ECOM B2B,2 Jars,Key Account,2025-04,2048.581080266503
+ECOM B2B|3 Jars|Key Account,ECOM B2B,3 Jars,Key Account,2025-04,333.25938452226006
+ECOM B2B|Blender|Key Account,ECOM B2B,Blender,Key Account,2025-04,0.022534836628765976
+ECOM B2B|CKM|Key Account,ECOM B2B,CKM,Key Account,2025-04,340.5939545250037
+ECOM B2B|Combos|Key Account,ECOM B2B,Combos,Key Account,2025-04,0.016474538936649217
+ECOM B2B|FP|Key Account,ECOM B2B,FP,Key Account,2025-04,26.64168921196769
+ECOM B2B|Gift Combos|Key Account,ECOM B2B,Gift Combos,Key Account,2025-04,0.016474538936649217
+ECOM B2B|NB Smart 2 Jar|Key Account,ECOM B2B,NB Smart 2 Jar,Key Account,2025-04,0.011643487985322143
+ECOM B2B|NB Smart 3 Jar|Key Account,ECOM B2B,NB Smart 3 Jar,Key Account,2025-04,0.015182295800136693
+ECOM B2B|NB Smart CKM|Key Account,ECOM B2B,NB Smart CKM,Key Account,2025-04,0.011783305007016192
+ECOM B2B|Personal Blender|Key Account,ECOM B2B,Personal Blender,Key Account,2025-04,0.016474538936649217
+ECOM B2B|Sipper Jar|Key Account,ECOM B2B,Sipper Jar,Key Account,2025-04,0.019778591682027804
+ECOM B2B|Storm|Key Account,ECOM B2B,Storm,Key Account,2025-04,0.016474538936649217
+ECOM B2B|Thunder|Key Account,ECOM B2B,Thunder,Key Account,2025-04,0.01767348466555418
+ECOM B2B|1 Jar|Regular,ECOM B2B,1 Jar,Regular,2025-04,1442.452826704506
+ECOM B2B|2 Jars|Regular,ECOM B2B,2 Jars,Regular,2025-04,666.8929170761953
+ECOM B2B|3 Jars|Regular,ECOM B2B,3 Jars,Regular,2025-04,67.01903484815121
+ECOM B2B|Blender|Regular,ECOM B2B,Blender,Regular,2025-04,0.021528532261349917
+ECOM B2B|CKM|Regular,ECOM B2B,CKM,Regular,2025-04,45.036733535319975
+ECOM B2B|Combos|Regular,ECOM B2B,Combos,Regular,2025-04,0.02044870809646154
+ECOM B2B|FP|Regular,ECOM B2B,FP,Regular,2025-04,0.016964578777415987
+ECOM B2B|Gift Combos|Regular,ECOM B2B,Gift Combos,Regular,2025-04,0.02044870809646154
+ECOM B2B|NB Smart 2 Jar|Regular,ECOM B2B,NB Smart 2 Jar,Regular,2025-04,0.01482044194219027
+ECOM B2B|NB Smart 3 Jar|Regular,ECOM B2B,NB Smart 3 Jar,Regular,2025-04,0.018916786481908393
+ECOM B2B|NB Smart CKM|Regular,ECOM B2B,NB Smart CKM,Regular,2025-04,0.0135419666651342
+ECOM B2B|Personal Blender|Regular,ECOM B2B,Personal Blender,Regular,2025-04,0.02044870809646154
+ECOM B2B|Sipper Jar|Regular,ECOM B2B,Sipper Jar,Regular,2025-04,0.02454980072098756
+ECOM B2B|Storm|Regular,ECOM B2B,Storm,Regular,2025-04,24.04397717252792
+ECOM B2B|Thunder|Regular,ECOM B2B,Thunder,Regular,2025-04,0.021272830812655207
+ECOM B2B|1 Jar|Top Account,ECOM B2B,1 Jar,Top Account,2025-04,383.29431197465186
+ECOM B2B|2 Jars|Top Account,ECOM B2B,2 Jars,Top Account,2025-04,1341.7024642404408
+ECOM B2B|3 Jars|Top Account,ECOM B2B,3 Jars,Top Account,2025-04,39.84618266216358
+ECOM B2B|Blender|Top Account,ECOM B2B,Blender,Top Account,2025-04,0.015184755876771478
+ECOM B2B|CKM|Top Account,ECOM B2B,CKM,Top Account,2025-04,280.84469419305043
+ECOM B2B|Combos|Top Account,ECOM B2B,Combos,Top Account,2025-04,0.010385132414316878
+ECOM B2B|FP|Top Account,ECOM B2B,FP,Top Account,2025-04,0.00885713512110051
+ECOM B2B|Gift Combos|Top Account,ECOM B2B,Gift Combos,Top Account,2025-04,0.010385132414316878
+ECOM B2B|NB Smart 2 Jar|Top Account,ECOM B2B,NB Smart 2 Jar,Top Account,2025-04,13.524487600304058
+ECOM B2B|NB Smart 3 Jar|Top Account,ECOM B2B,NB Smart 3 Jar,Top Account,2025-04,0.009949237070027997
+ECOM B2B|NB Smart CKM|Top Account,ECOM B2B,NB Smart CKM,Top Account,2025-04,0.007718620256678721
+ECOM B2B|Personal Blender|Top Account,ECOM B2B,Personal Blender,Top Account,2025-04,0.010385132414316878
+ECOM B2B|Sipper Jar|Top Account,ECOM B2B,Sipper Jar,Top Account,2025-04,0.012322796763839095
+ECOM B2B|Storm|Top Account,ECOM B2B,Storm,Top Account,2025-04,0.010385132414316878
+ECOM B2B|Thunder|Top Account,ECOM B2B,Thunder,Top Account,2025-04,0.010385132414316878
+ECOM B2C|1 Jar|Key Account,ECOM B2C,1 Jar,Key Account,2025-04,0.008749930987185192
+ECOM B2C|2 Jars|Key Account,ECOM B2C,2 Jars,Key Account,2025-04,0.013111939943074335
+ECOM B2C|3 Jars|Key Account,ECOM B2C,3 Jars,Key Account,2025-04,0.009251823960063346
+ECOM B2C|Blender|Key Account,ECOM B2C,Blender,Key Account,2025-04,0.012886773623152206
+ECOM B2C|CKM|Key Account,ECOM B2C,CKM,Key Account,2025-04,0.0088563810009497
+ECOM B2C|Combos|Key Account,ECOM B2C,Combos,Key Account,2025-04,0.009547593300608037
+ECOM B2C|FP|Key Account,ECOM B2C,FP,Key Account,2025-04,0.007843202788320808
+ECOM B2C|Gift Combos|Key Account,ECOM B2C,Gift Combos,Key Account,2025-04,0.009547593300608037
+ECOM B2C|NB Smart 2 Jar|Key Account,ECOM B2C,NB Smart 2 Jar,Key Account,2025-04,0.007062437342384188
+ECOM B2C|NB Smart 3 Jar|Key Account,ECOM B2C,NB Smart 3 Jar,Key Account,2025-04,0.00905168444019727
+ECOM B2C|NB Smart CKM|Key Account,ECOM B2C,NB Smart CKM,Key Account,2025-04,0.007610888526824724
+ECOM B2C|Personal Blender|Key Account,ECOM B2C,Personal Blender,Key Account,2025-04,0.009547593300608037
+ECOM B2C|Sipper Jar|Key Account,ECOM B2C,Sipper Jar,Key Account,2025-04,0.011462411795859261
+ECOM B2C|Storm|Key Account,ECOM B2C,Storm,Key Account,2025-04,0.009547593300608037
+ECOM B2C|Thunder|Key Account,ECOM B2C,Thunder,Key Account,2025-04,0.009547593300608037
+ECOM B2C|1 Jar|Regular,ECOM B2C,1 Jar,Regular,2025-04,239.06762975196187
+ECOM B2C|2 Jars|Regular,ECOM B2C,2 Jars,Regular,2025-04,482.69811132967806
+ECOM B2C|3 Jars|Regular,ECOM B2C,3 Jars,Regular,2025-04,282.04250648803094
+ECOM B2C|Blender|Regular,ECOM B2C,Blender,Regular,2025-04,0.012016902918603281
+ECOM B2C|CKM|Regular,ECOM B2C,CKM,Regular,2025-04,66.71956162608559
+ECOM B2C|Combos|Regular,ECOM B2C,Combos,Regular,2025-04,0.011731261149899861
+ECOM B2C|FP|Regular,ECOM B2C,FP,Regular,2025-04,43.57483772897237
+ECOM B2C|Gift Combos|Regular,ECOM B2C,Gift Combos,Regular,2025-04,0.011731261149899861
+ECOM B2C|NB Smart 2 Jar|Regular,ECOM B2C,NB Smart 2 Jar,Regular,2025-04,8.293517709999367
+ECOM B2C|NB Smart 3 Jar|Regular,ECOM B2C,NB Smart 3 Jar,Regular,2025-04,7.561603338292587
+ECOM B2C|NB Smart CKM|Regular,ECOM B2C,NB Smart CKM,Regular,2025-04,7.06687192210844
+ECOM B2C|Personal Blender|Regular,ECOM B2C,Personal Blender,Regular,2025-04,0.011850768581665396
+ECOM B2C|Sipper Jar|Regular,ECOM B2C,Sipper Jar,Regular,2025-04,0.01422750061754609
+ECOM B2C|Storm|Regular,ECOM B2C,Storm,Regular,2025-04,3.6546369394545137
+ECOM B2C|Thunder|Regular,ECOM B2C,Thunder,Regular,2025-04,2.6301903132148796
+ECOM B2C|1 Jar|Top Account,ECOM B2C,1 Jar,Top Account,2025-04,0.006095928423486183
+ECOM B2C|2 Jars|Top Account,ECOM B2C,2 Jars,Top Account,2025-04,0.008142946157361459
+ECOM B2C|3 Jars|Top Account,ECOM B2C,3 Jars,Top Account,2025-04,0.006177460613334093
+ECOM B2C|Blender|Top Account,ECOM B2C,Blender,Top Account,2025-04,0.00877915052106176
+ECOM B2C|CKM|Top Account,ECOM B2C,CKM,Top Account,2025-04,0.005735454377769029
+ECOM B2C|Combos|Top Account,ECOM B2C,Combos,Top Account,2025-04,0.006084817760110951
+ECOM B2C|FP|Top Account,ECOM B2C,FP,Top Account,2025-04,0.005206926376155146
+ECOM B2C|Gift Combos|Top Account,ECOM B2C,Gift Combos,Top Account,2025-04,0.006084817760110951
+ECOM B2C|NB Smart 2 Jar|Top Account,ECOM B2C,NB Smart 2 Jar,Top Account,2025-04,0.00450099232524633
+ECOM B2C|NB Smart 3 Jar|Top Account,ECOM B2C,NB Smart 3 Jar,Top Account,2025-04,0.005768767950885033
+ECOM B2C|NB Smart CKM|Top Account,ECOM B2C,NB Smart CKM,Top Account,2025-04,0.0048505281090364845
+ECOM B2C|Personal Blender|Top Account,ECOM B2C,Personal Blender,Top Account,2025-04,0.006084817760110951
+ECOM B2C|Sipper Jar|Top Account,ECOM B2C,Sipper Jar,Top Account,2025-04,0.0072201267746452545
+ECOM B2C|Storm|Top Account,ECOM B2C,Storm,Top Account,2025-04,0.006084817760110951
+ECOM B2C|Thunder|Top Account,ECOM B2C,Thunder,Top Account,2025-04,0.006084817760110951
+Export|1 Jar|Key Account,Export,1 Jar,Key Account,2025-04,0.017442173687789567
+Export|2 Jars|Key Account,Export,2 Jars,Key Account,2025-04,0.023446826804661473
+Export|3 Jars|Key Account,Export,3 Jars,Key Account,2025-04,0.02659303912217157
+Export|Blender|Key Account,Export,Blender,Key Account,2025-04,0.020916626084312214
+Export|CKM|Key Account,Export,CKM,Key Account,2025-04,0.018264554591626583
+Export|Combos|Key Account,Export,Combos,Key Account,2025-04,0.018887083788101323
+Export|FP|Key Account,Export,FP,Key Account,2025-04,0.015481315861057873
+Export|Gift Combos|Key Account,Export,Gift Combos,Key Account,2025-04,0.018887083788101323
+Export|NB Smart 2 Jar|Key Account,Export,NB Smart 2 Jar,Key Account,2025-04,0.014170824223876968
+Export|NB Smart 3 Jar|Key Account,Export,NB Smart 3 Jar,Key Account,2025-04,0.01811344874405489
+Export|NB Smart CKM|Key Account,Export,NB Smart CKM,Key Account,2025-04,0.014721147012962486
+Export|Personal Blender|Key Account,Export,Personal Blender,Key Account,2025-04,0.018887083788101323
+Export|Sipper Jar|Key Account,Export,Sipper Jar,Key Account,2025-04,0.020768381294369136
+Export|Storm|Key Account,Export,Storm,Key Account,2025-04,0.018887083788101323
+Export|Thunder|Key Account,Export,Thunder,Key Account,2025-04,0.04526063410482896
+Export|1 Jar|Regular,Export,1 Jar,Regular,2025-04,0.019657092508811914
+Export|2 Jars|Regular,Export,2 Jars,Regular,2025-04,28.547947053565302
+Export|3 Jars|Regular,Export,3 Jars,Regular,2025-04,17.64929201968815
+Export|Blender|Regular,Export,Blender,Regular,2025-04,0.02102215456764304
+Export|CKM|Regular,Export,CKM,Regular,2025-04,49.71387389723773
+Export|Combos|Regular,Export,Combos,Regular,2025-04,0.02075740949412395
+Export|FP|Regular,Export,FP,Regular,2025-04,0.017014379585603537
+Export|Gift Combos|Regular,Export,Gift Combos,Regular,2025-04,0.02075740949412395
+Export|NB Smart 2 Jar|Regular,Export,NB Smart 2 Jar,Regular,2025-04,70.08795557151406
+Export|NB Smart 3 Jar|Regular,Export,NB Smart 3 Jar,Regular,2025-04,0.024564020855962647
+Export|NB Smart CKM|Regular,Export,NB Smart CKM,Regular,2025-04,0.01568408694013245
+Export|Personal Blender|Regular,Export,Personal Blender,Regular,2025-04,0.02075740949412395
+Export|Sipper Jar|Regular,Export,Sipper Jar,Regular,2025-04,0.022825005696692654
+Export|Storm|Regular,Export,Storm,Regular,2025-04,26.34486738855896
+Export|Thunder|Regular,Export,Thunder,Regular,2025-04,117.92973181950961
+Export|1 Jar|Top Account,Export,1 Jar,Top Account,2025-04,0.01202731863830341
+Export|2 Jars|Top Account,Export,2 Jars,Top Account,2025-04,0.014200792178971387
+Export|3 Jars|Top Account,Export,3 Jars,Top Account,2025-04,0.01742216920321122
+Export|Blender|Top Account,Export,Blender,Top Account,2025-04,0.01414299742243327
+Export|CKM|Top Account,Export,CKM,Top Account,2025-04,0.011739839443101483
+Export|Combos|Top Account,Export,Combos,Top Account,2025-04,0.011947034155306858
+Export|FP|Top Account,Export,FP,Top Account,2025-04,0.010200874352326184
+Export|Gift Combos|Top Account,Export,Gift Combos,Top Account,2025-04,0.011947034155306858
+Export|NB Smart 2 Jar|Top Account,Export,NB Smart 2 Jar,Top Account,2025-04,0.008963761844386246
+Export|NB Smart 3 Jar|Top Account,Export,NB Smart 3 Jar,Top Account,2025-04,0.011457670927046715
+Export|NB Smart CKM|Top Account,Export,NB Smart CKM,Top Account,2025-04,0.009294125679850454
+Export|Personal Blender|Top Account,Export,Personal Blender,Top Account,2025-04,0.011947034155306858
+Export|Sipper Jar|Top Account,Export,Sipper Jar,Top Account,2025-04,0.012984134294119078
+Export|Storm|Top Account,Export,Storm,Top Account,2025-04,0.011947034155306858
+Export|Thunder|Top Account,Export,Thunder,Top Account,2025-04,0.028629636401671217
+GT|1 Jar|Key Account,GT,1 Jar,Key Account,2025-04,477.6657810918162
+GT|2 Jars|Key Account,GT,2 Jars,Key Account,2025-04,1340.7902127946022
+GT|3 Jars|Key Account,GT,3 Jars,Key Account,2025-04,123.35550083303308
+GT|Blender|Key Account,GT,Blender,Key Account,2025-04,0.02948674981947904
+GT|CKM|Key Account,GT,CKM,Key Account,2025-04,135.75067920022363
+GT|Combos|Key Account,GT,Combos,Key Account,2025-04,0.020922119970482253
+GT|FP|Key Account,GT,FP,Key Account,2025-04,0.01658650788641654
+GT|Gift Combos|Key Account,GT,Gift Combos,Key Account,2025-04,0.020922119970482253
+GT|NB Smart 2 Jar|Key Account,GT,NB Smart 2 Jar,Key Account,2025-04,0.015077268581182891
+GT|NB Smart 3 Jar|Key Account,GT,NB Smart 3 Jar,Key Account,2025-04,0.019387550849511107
+GT|NB Smart CKM|Key Account,GT,NB Smart CKM,Key Account,2025-04,0.015530967058915183
+GT|Personal Blender|Key Account,GT,Personal Blender,Key Account,2025-04,0.020922119970482253
+GT|Sipper Jar|Key Account,GT,Sipper Jar,Key Account,2025-04,0.0251181577590622
+GT|Storm|Key Account,GT,Storm,Key Account,2025-04,25.814016059997936
+GT|Thunder|Key Account,GT,Thunder,Key Account,2025-04,0.021125943314118913
+GT|1 Jar|Regular,GT,1 Jar,Regular,2025-04,1361.7089139785933
+GT|2 Jars|Regular,GT,2 Jars,Regular,2025-04,3018.0779415378515
+GT|3 Jars|Regular,GT,3 Jars,Regular,2025-04,742.1877318493572
+GT|Blender|Regular,GT,Blender,Regular,2025-04,0.027251043262691357
+GT|CKM|Regular,GT,CKM,Regular,2025-04,440.8206612027359
+GT|Combos|Regular,GT,Combos,Regular,2025-04,0.02592469673645001
+GT|FP|Regular,GT,FP,Regular,2025-04,11.64712123711211
+GT|Gift Combos|Regular,GT,Gift Combos,Regular,2025-04,0.02592469673645001
+GT|NB Smart 2 Jar|Regular,GT,NB Smart 2 Jar,Regular,2025-04,34.63144979919379
+GT|NB Smart 3 Jar|Regular,GT,NB Smart 3 Jar,Regular,2025-04,29.395254875030048
+GT|NB Smart CKM|Regular,GT,NB Smart CKM,Regular,2025-04,12.0691260084943
+GT|Personal Blender|Regular,GT,Personal Blender,Regular,2025-04,0.02592469673645001
+GT|Sipper Jar|Regular,GT,Sipper Jar,Regular,2025-04,0.031124026790817924
+GT|Storm|Regular,GT,Storm,Regular,2025-04,56.47907663188348
+GT|Thunder|Regular,GT,Thunder,Regular,2025-04,42.34725765873639
+GT|1 Jar|Top Account,GT,1 Jar,Top Account,2025-04,0.011246108544367642
+GT|2 Jars|Top Account,GT,2 Jars,Top Account,2025-04,0.01496814044439329
+GT|3 Jars|Top Account,GT,3 Jars,Top Account,2025-04,0.011504654881737892
+GT|Blender|Top Account,GT,Blender,Top Account,2025-04,0.016860453999883826
+GT|CKM|Top Account,GT,CKM,Top Account,2025-04,0.010657600784447456
+GT|Combos|Top Account,GT,Combos,Top Account,2025-04,0.011584204510792813
+GT|FP|Top Account,GT,FP,Top Account,2025-04,0.009696820349396862
+GT|Gift Combos|Top Account,GT,Gift Combos,Top Account,2025-04,0.011584204510792813
+GT|NB Smart 2 Jar|Top Account,GT,NB Smart 2 Jar,Top Account,2025-04,0.00834141587908193
+GT|NB Smart 3 Jar|Top Account,GT,NB Smart 3 Jar,Top Account,2025-04,0.010734540970082902
+GT|NB Smart CKM|Top Account,GT,NB Smart CKM,Top Account,2025-04,0.008582834126782561
+GT|Personal Blender|Top Account,GT,Personal Blender,Top Account,2025-04,0.011584204510792813
+GT|Sipper Jar|Top Account,GT,Sipper Jar,Top Account,2025-04,0.013745592464517252
+GT|Storm|Top Account,GT,Storm,Top Account,2025-04,0.011584204510792813
+GT|Thunder|Top Account,GT,Thunder,Top Account,2025-04,0.011584204510792813
+MT|1 Jar|Key Account,MT,1 Jar,Key Account,2025-04,390.40863098782376
+MT|2 Jars|Key Account,MT,2 Jars,Key Account,2025-04,1038.2173358572675
+MT|3 Jars|Key Account,MT,3 Jars,Key Account,2025-04,393.26876891333205
+MT|Blender|Key Account,MT,Blender,Key Account,2025-04,0.018611441579351108
+MT|CKM|Key Account,MT,CKM,Key Account,2025-04,506.61227536094844
+MT|Combos|Key Account,MT,Combos,Key Account,2025-04,0.0134927365070256
+MT|FP|Key Account,MT,FP,Key Account,2025-04,0.011507507620353475
+MT|Gift Combos|Key Account,MT,Gift Combos,Key Account,2025-04,0.0134927365070256
+MT|NB Smart 2 Jar|Key Account,MT,NB Smart 2 Jar,Key Account,2025-04,67.28210410368563
+MT|NB Smart 3 Jar|Key Account,MT,NB Smart 3 Jar,Key Account,2025-04,0.012765508437130457
+MT|NB Smart CKM|Key Account,MT,NB Smart CKM,Key Account,2025-04,0.010473029157020801
+MT|Personal Blender|Key Account,MT,Personal Blender,Key Account,2025-04,0.0134927365070256
+MT|Sipper Jar|Key Account,MT,Sipper Jar,Key Account,2025-04,0.016010219526415657
+MT|Storm|Key Account,MT,Storm,Key Account,2025-04,0.0134927365070256
+MT|Thunder|Key Account,MT,Thunder,Key Account,2025-04,0.0134927365070256
+MT|1 Jar|Regular,MT,1 Jar,Regular,2025-04,93.51070754768921
+MT|2 Jars|Regular,MT,2 Jars,Regular,2025-04,543.5852802979468
+MT|3 Jars|Regular,MT,3 Jars,Regular,2025-04,16.076539671225746
+MT|Blender|Regular,MT,Blender,Regular,2025-04,0.024469858361960774
+MT|CKM|Regular,MT,CKM,Regular,2025-04,240.27026619093232
+MT|Combos|Regular,MT,Combos,Regular,2025-04,0.02361324834476435
+MT|FP|Regular,MT,FP,Regular,2025-04,2.5932351104771643
+MT|Gift Combos|Regular,MT,Gift Combos,Regular,2025-04,0.02361324834476435
+MT|NB Smart 2 Jar|Regular,MT,NB Smart 2 Jar,Regular,2025-04,32.46973790540502
+MT|NB Smart 3 Jar|Regular,MT,NB Smart 3 Jar,Regular,2025-04,0.022109069756875002
+MT|NB Smart CKM|Regular,MT,NB Smart CKM,Regular,2025-04,64.88556858191785
+MT|Personal Blender|Regular,MT,Personal Blender,Regular,2025-04,0.02361324834476435
+MT|Sipper Jar|Regular,MT,Sipper Jar,Regular,2025-04,0.028019022644857675
+MT|Storm|Regular,MT,Storm,Regular,2025-04,69.45454196976581
+MT|Thunder|Regular,MT,Thunder,Regular,2025-04,11.16816739112429
+MT|1 Jar|Top Account,MT,1 Jar,Top Account,2025-04,0.33791400374892966
+MT|2 Jars|Top Account,MT,2 Jars,Top Account,2025-04,632.6189637437423
+MT|3 Jars|Top Account,MT,3 Jars,Top Account,2025-04,0.010922767638955782
+MT|Blender|Top Account,MT,Blender,Top Account,2025-04,0.016331030725531097
+MT|CKM|Top Account,MT,CKM,Top Account,2025-04,0.010392661147426659
+MT|Combos|Top Account,MT,Combos,Top Account,2025-04,0.01114189850942526
+MT|FP|Top Account,MT,FP,Top Account,2025-04,0.00950255583332967
+MT|Gift Combos|Top Account,MT,Gift Combos,Top Account,2025-04,0.01114189850942526
+MT|NB Smart 2 Jar|Top Account,MT,NB Smart 2 Jar,Top Account,2025-04,0.008022925446719191
+MT|NB Smart 3 Jar|Top Account,MT,NB Smart 3 Jar,Top Account,2025-04,0.01039241848105414
+MT|NB Smart CKM|Top Account,MT,NB Smart CKM,Top Account,2025-04,0.007973372722551234
+MT|Personal Blender|Top Account,MT,Personal Blender,Top Account,2025-04,0.01114189850942526
+MT|Sipper Jar|Top Account,MT,Sipper Jar,Top Account,2025-04,0.013220760739236143
+MT|Storm|Top Account,MT,Storm,Top Account,2025-04,0.01114189850942526
+MT|Thunder|Top Account,MT,Thunder,Top Account,2025-04,0.01114189850942526
+Others|1 Jar|Key Account,Others,1 Jar,Key Account,2025-04,0.01876468356424663
+Others|2 Jars|Key Account,Others,2 Jars,Key Account,2025-04,0.022047453693945375
+Others|3 Jars|Key Account,Others,3 Jars,Key Account,2025-04,0.015716912332754435
+Others|Blender|Key Account,Others,Blender,Key Account,2025-04,0.02256958911310913
+Others|CKM|Key Account,Others,CKM,Key Account,2025-04,0.01532612792654793
+Others|Combos|Key Account,Others,Combos,Key Account,2025-04,0.016696396531250695
+Others|FP|Key Account,Others,FP,Key Account,2025-04,0.014629793257790255
+Others|Gift Combos|Key Account,Others,Gift Combos,Key Account,2025-04,0.016696396531250695
+Others|NB Smart 2 Jar|Key Account,Others,NB Smart 2 Jar,Key Account,2025-04,0.012022542162430346
+Others|NB Smart 3 Jar|Key Account,Others,NB Smart 3 Jar,Key Account,2025-04,0.015374588656007207
+Others|NB Smart CKM|Key Account,Others,NB Smart CKM,Key Account,2025-04,0.011413693749506694
+Others|Personal Blender|Key Account,Others,Personal Blender,Key Account,2025-04,0.016696396531250695
+Others|Sipper Jar|Key Account,Others,Sipper Jar,Key Account,2025-04,0.020044943947912338
+Others|Storm|Key Account,Others,Storm,Key Account,2025-04,0.016696396531250695
+Others|Thunder|Key Account,Others,Thunder,Key Account,2025-04,0.016696396531250695
+Others|1 Jar|Regular,Others,1 Jar,Regular,2025-04,0.023609322785811602
+Others|2 Jars|Regular,Others,2 Jars,Regular,2025-04,30.569920924021293
+Others|3 Jars|Regular,Others,3 Jars,Regular,2025-04,0.01948530932583334
+Others|Blender|Regular,Others,Blender,Regular,2025-04,0.021046118230689973
+Others|CKM|Regular,Others,CKM,Regular,2025-04,2.9577178572712377
+Others|Combos|Regular,Others,Combos,Regular,2025-04,0.020724084615855135
+Others|FP|Regular,Others,FP,Regular,2025-04,0.01840013871794305
+Others|Gift Combos|Regular,Others,Gift Combos,Regular,2025-04,0.020515095459492393
+Others|NB Smart 2 Jar|Regular,Others,NB Smart 2 Jar,Regular,2025-04,0.01478766775753607
+Others|NB Smart 3 Jar|Regular,Others,NB Smart 3 Jar,Regular,2025-04,0.01917153307983167
+Others|NB Smart CKM|Regular,Others,NB Smart CKM,Regular,2025-04,0.013829319953097552
+Others|Personal Blender|Regular,Others,Personal Blender,Regular,2025-04,0.020724084615855135
+Others|Sipper Jar|Regular,Others,Sipper Jar,Regular,2025-04,0.024880405404787698
+Others|Storm|Regular,Others,Storm,Regular,2025-04,0.020515095459492393
+Others|Thunder|Regular,Others,Thunder,Regular,2025-04,12.457090044256994
+Others|1 Jar|Top Account,Others,1 Jar,Top Account,2025-04,0.010544204081479661
+Others|2 Jars|Top Account,Others,2 Jars,Top Account,2025-04,0.013307317118530797
+Others|3 Jars|Top Account,Others,3 Jars,Top Account,2025-04,0.010308127260158678
+Others|Blender|Top Account,Others,Blender,Top Account,2025-04,0.015208173308171386
+Others|CKM|Top Account,Others,CKM,Top Account,2025-04,0.009817232780546019
+Others|Combos|Top Account,Others,Combos,Top Account,2025-04,0.010524985827266279
+Others|FP|Top Account,Others,FP,Top Account,2025-04,0.009606634919151149
+Others|Gift Combos|Top Account,Others,Gift Combos,Top Account,2025-04,0.010524985827266279
+Others|NB Smart 2 Jar|Top Account,Others,NB Smart 2 Jar,Top Account,2025-04,0.007578706317285366
+Others|NB Smart 3 Jar|Top Account,Others,NB Smart 3 Jar,Top Account,2025-04,0.009691751594522237
+Others|NB Smart CKM|Top Account,Others,NB Smart CKM,Top Account,2025-04,0.007181194299605416
+Others|Personal Blender|Top Account,Others,Personal Blender,Top Account,2025-04,0.010524985827266279
+Others|Sipper Jar|Top Account,Others,Sipper Jar,Top Account,2025-04,0.012488744112004707
+Others|Storm|Top Account,Others,Storm,Top Account,2025-04,0.010524985827266279
+Others|Thunder|Top Account,Others,Thunder,Top Account,2025-04,0.010524985827266279
+Website|1 Jar|Key Account,Website,1 Jar,Key Account,2025-04,0.009281832055316052
+Website|2 Jars|Key Account,Website,2 Jars,Key Account,2025-04,0.012788250355130046
+Website|3 Jars|Key Account,Website,3 Jars,Key Account,2025-04,0.009697850519718776
+Website|Blender|Key Account,Website,Blender,Key Account,2025-04,0.01385649019140835
+Website|CKM|Key Account,Website,CKM,Key Account,2025-04,0.009394753077378408
+Website|Combos|Key Account,Website,Combos,Key Account,2025-04,0.010127983601069849
+Website|FP|Key Account,Website,FP,Key Account,2025-04,0.008497945737324677
+Website|Gift Combos|Key Account,Website,Gift Combos,Key Account,2025-04,0.010127983601069849
+Website|NB Smart 2 Jar|Key Account,Website,NB Smart 2 Jar,Key Account,2025-04,0.008133681981388316
+Website|NB Smart 3 Jar|Key Account,Website,NB Smart 3 Jar,Key Account,2025-04,0.009326178944647467
+Website|NB Smart CKM|Key Account,Website,NB Smart CKM,Key Account,2025-04,0.007924862276231778
+Website|Personal Blender|Key Account,Website,Personal Blender,Key Account,2025-04,0.010127983601069849
+Website|Sipper Jar|Key Account,Website,Sipper Jar,Key Account,2025-04,0.0121592023290077
+Website|Storm|Key Account,Website,Storm,Key Account,2025-04,0.010127983601069849
+Website|Thunder|Key Account,Website,Thunder,Key Account,2025-04,0.010127983601069849
+Website|1 Jar|Regular,Website,1 Jar,Regular,2025-04,45.55138528055959
+Website|2 Jars|Regular,Website,2 Jars,Regular,2025-04,179.01599205444398
+Website|3 Jars|Regular,Website,3 Jars,Regular,2025-04,62.49650976497887
+Website|Blender|Regular,Website,Blender,Regular,2025-04,0.012921162603770697
+Website|CKM|Regular,Website,CKM,Regular,2025-04,67.93749346313727
+Website|Combos|Regular,Website,Combos,Regular,2025-04,0.012571167002634753
+Website|FP|Regular,Website,FP,Regular,2025-04,39.46592079610339
+Website|Gift Combos|Regular,Website,Gift Combos,Regular,2025-04,0.012571167002634753
+Website|NB Smart 2 Jar|Regular,Website,NB Smart 2 Jar,Regular,2025-04,11.983829520753954
+Website|NB Smart 3 Jar|Regular,Website,NB Smart 3 Jar,Regular,2025-04,3.905107469637645
+Website|NB Smart CKM|Regular,Website,NB Smart CKM,Regular,2025-04,13.157763098077337
+Website|Personal Blender|Regular,Website,Personal Blender,Regular,2025-04,0.012571167002634753
+Website|Sipper Jar|Regular,Website,Sipper Jar,Regular,2025-04,0.015092378613314056
+Website|Storm|Regular,Website,Storm,Regular,2025-04,7.362149605679817
+Website|Thunder|Regular,Website,Thunder,Regular,2025-04,4.234604192799554
+Website|1 Jar|Top Account,Website,1 Jar,Top Account,2025-04,0.0064664948707473455
+Website|2 Jars|Top Account,Website,2 Jars,Top Account,2025-04,0.007803655566684957
+Website|3 Jars|Top Account,Website,3 Jars,Top Account,2025-04,0.006430473042076949
+Website|Blender|Top Account,Website,Blender,Top Account,2025-04,0.009439772641418855
+Website|CKM|Top Account,Website,CKM,Top Account,2025-04,0.006084107905919038
+Website|Combos|Top Account,Website,Combos,Top Account,2025-04,0.006454708799334542
+Website|FP|Top Account,Website,FP,Top Account,2025-04,0.0056415955314454355
+Website|Gift Combos|Top Account,Website,Gift Combos,Top Account,2025-04,0.006454708799334542
+Website|NB Smart 2 Jar|Top Account,Website,NB Smart 2 Jar,Top Account,2025-04,0.005183711854619338
+Website|NB Smart 3 Jar|Top Account,Website,NB Smart 3 Jar,Top Account,2025-04,0.00594370722439022
+Website|NB Smart CKM|Top Account,Website,NB Smart CKM,Top Account,2025-04,0.005041004450796898
+Website|Personal Blender|Top Account,Website,Personal Blender,Top Account,2025-04,0.006454708799334542
+Website|Sipper Jar|Top Account,Website,Sipper Jar,Top Account,2025-04,0.007659032309911592
+Website|Storm|Top Account,Website,Storm,Top Account,2025-04,0.006454708799334542
+Website|Thunder|Top Account,Website,Thunder,Top Account,2025-04,0.006454708799334542
+CG|1 Jar|Key Account,CG,1 Jar,Key Account,2025-05,81.9410257886392
+CG|2 Jars|Key Account,CG,2 Jars,Key Account,2025-05,101.69527207547375
+CG|3 Jars|Key Account,CG,3 Jars,Key Account,2025-05,82.29163040853842
+CG|Blender|Key Account,CG,Blender,Key Account,2025-05,0.03479045204104966
+CG|CKM|Key Account,CG,CKM,Key Account,2025-05,51.258872417288906
+CG|Combos|Key Account,CG,Combos,Key Account,2025-05,0.02585522769998367
+CG|FP|Key Account,CG,FP,Key Account,2025-05,0.02086267791588865
+CG|Gift Combos|Key Account,CG,Gift Combos,Key Account,2025-05,0.02585522769998367
+CG|NB Smart 2 Jar|Key Account,CG,NB Smart 2 Jar,Key Account,2025-05,19.84542060984916
+CG|NB Smart 3 Jar|Key Account,CG,NB Smart 3 Jar,Key Account,2025-05,30.91694234970168
+CG|NB Smart CKM|Key Account,CG,NB Smart CKM,Key Account,2025-05,7.107864640234301
+CG|Personal Blender|Key Account,CG,Personal Blender,Key Account,2025-05,0.02585522769998367
+CG|Sipper Jar|Key Account,CG,Sipper Jar,Key Account,2025-05,0.030898775232036317
+CG|Storm|Key Account,CG,Storm,Key Account,2025-05,0.02585522769998367
+CG|Thunder|Key Account,CG,Thunder,Key Account,2025-05,0.02585522769998367
+CG|1 Jar|Regular,CG,1 Jar,Regular,2025-05,1035.931353803558
+CG|2 Jars|Regular,CG,2 Jars,Regular,2025-05,776.2528579374299
+CG|3 Jars|Regular,CG,3 Jars,Regular,2025-05,258.9583004503341
+CG|Blender|Regular,CG,Blender,Regular,2025-05,0.031961796106181314
+CG|CKM|Regular,CG,CKM,Regular,2025-05,448.01496080429786
+CG|Combos|Regular,CG,Combos,Regular,2025-05,0.03161722319719357
+CG|FP|Regular,CG,FP,Regular,2025-05,11.621898306011431
+CG|Gift Combos|Regular,CG,Gift Combos,Regular,2025-05,0.03161722319719357
+CG|NB Smart 2 Jar|Regular,CG,NB Smart 2 Jar,Regular,2025-05,35.048421992969686
+CG|NB Smart 3 Jar|Regular,CG,NB Smart 3 Jar,Regular,2025-05,22.811197274882925
+CG|NB Smart CKM|Regular,CG,NB Smart CKM,Regular,2025-05,11.02977311518318
+CG|Personal Blender|Regular,CG,Personal Blender,Regular,2025-05,0.03161722319719357
+CG|Sipper Jar|Regular,CG,Sipper Jar,Regular,2025-05,0.037784756118462874
+CG|Storm|Regular,CG,Storm,Regular,2025-05,0.03161722319719357
+CG|Thunder|Regular,CG,Thunder,Regular,2025-05,0.02934631808231366
+CG|1 Jar|Top Account,CG,1 Jar,Top Account,2025-05,0.016871583243072714
+CG|2 Jars|Top Account,CG,2 Jars,Top Account,2025-05,0.021608548400566155
+CG|3 Jars|Top Account,CG,3 Jars,Top Account,2025-05,0.016200575693506792
+CG|Blender|Top Account,CG,Blender,Top Account,2025-05,0.02332369009894014
+CG|CKM|Top Account,CG,CKM,Top Account,2025-05,0.01525938249885187
+CG|Combos|Top Account,CG,Combos,Top Account,2025-05,0.016215521725175014
+CG|FP|Top Account,CG,FP,Top Account,2025-05,0.013629720227386377
+CG|Gift Combos|Top Account,CG,Gift Combos,Top Account,2025-05,0.016215521725175014
+CG|NB Smart 2 Jar|Top Account,CG,NB Smart 2 Jar,Top Account,2025-05,0.011849684712747461
+CG|NB Smart 3 Jar|Top Account,CG,NB Smart 3 Jar,Top Account,2025-05,0.014922850874158124
+CG|NB Smart CKM|Top Account,CG,NB Smart CKM,Top Account,2025-05,0.009452042058714012
+CG|Personal Blender|Top Account,CG,Personal Blender,Top Account,2025-05,0.016215521725175014
+CG|Sipper Jar|Top Account,CG,Sipper Jar,Top Account,2025-05,0.019153095607929063
+CG|Storm|Top Account,CG,Storm,Top Account,2025-05,0.016215521725175014
+CG|Thunder|Top Account,CG,Thunder,Top Account,2025-05,0.016215521725175014
+Canteen|1 Jar|Key Account,Canteen,1 Jar,Key Account,2025-05,0.016992099233844798
+Canteen|2 Jars|Key Account,Canteen,2 Jars,Key Account,2025-05,0.024379475057425076
+Canteen|3 Jars|Key Account,Canteen,3 Jars,Key Account,2025-05,0.018249256276950832
+Canteen|Blender|Key Account,Canteen,Blender,Key Account,2025-05,0.02402234471175067
+Canteen|CKM|Key Account,Canteen,CKM,Key Account,2025-05,0.016533006992622026
+Canteen|Combos|Key Account,Canteen,Combos,Key Account,2025-05,0.017852691068140324
+Canteen|FP|Key Account,Canteen,FP,Key Account,2025-05,0.0144054018014589
+Canteen|Gift Combos|Key Account,Canteen,Gift Combos,Key Account,2025-05,0.017852691068140324
+Canteen|NB Smart 2 Jar|Key Account,Canteen,NB Smart 2 Jar,Key Account,2025-05,0.012705398670266477
+Canteen|NB Smart 3 Jar|Key Account,Canteen,NB Smart 3 Jar,Key Account,2025-05,0.016429508160607644
+Canteen|NB Smart CKM|Key Account,Canteen,NB Smart CKM,Key Account,2025-05,0.012402566873581664
+Canteen|Personal Blender|Key Account,Canteen,Personal Blender,Key Account,2025-05,0.017852691068140324
+Canteen|Sipper Jar|Key Account,Canteen,Sipper Jar,Key Account,2025-05,0.021335193601942214
+Canteen|Storm|Key Account,Canteen,Storm,Key Account,2025-05,0.017852691068140324
+Canteen|Thunder|Key Account,Canteen,Thunder,Key Account,2025-05,0.017852691068140324
+Canteen|1 Jar|Regular,Canteen,1 Jar,Regular,2025-05,1.9480557034001786
+Canteen|2 Jars|Regular,Canteen,2 Jars,Regular,2025-05,1486.700100279038
+Canteen|3 Jars|Regular,Canteen,3 Jars,Regular,2025-05,431.1090073337648
+Canteen|Blender|Regular,Canteen,Blender,Regular,2025-05,0.022121165534407565
+Canteen|CKM|Regular,Canteen,CKM,Regular,2025-05,108.51241397086348
+Canteen|Combos|Regular,Canteen,Combos,Regular,2025-05,0.02188268224225878
+Canteen|FP|Regular,Canteen,FP,Regular,2025-05,1.524852752262806
+Canteen|Gift Combos|Regular,Canteen,Gift Combos,Regular,2025-05,0.02188268224225878
+Canteen|NB Smart 2 Jar|Regular,Canteen,NB Smart 2 Jar,Regular,2025-05,8.897864430246461
+Canteen|NB Smart 3 Jar|Regular,Canteen,NB Smart 3 Jar,Regular,2025-05,0.01855572801102204
+Canteen|NB Smart CKM|Regular,Canteen,NB Smart CKM,Regular,2025-05,0.013181464949103439
+Canteen|Personal Blender|Regular,Canteen,Personal Blender,Regular,2025-05,0.02188268224225878
+Canteen|Sipper Jar|Regular,Canteen,Sipper Jar,Regular,2025-05,0.026151310207879298
+Canteen|Storm|Regular,Canteen,Storm,Regular,2025-05,0.02188268224225878
+Canteen|Thunder|Regular,Canteen,Thunder,Regular,2025-05,7.688569425798877
+Canteen|1 Jar|Top Account,Canteen,1 Jar,Top Account,2025-05,0.011885229594704276
+Canteen|2 Jars|Top Account,Canteen,2 Jars,Top Account,2025-05,0.015178237300263958
+Canteen|3 Jars|Top Account,Canteen,3 Jars,Top Account,2025-05,0.012167620103796977
+Canteen|Blender|Top Account,Canteen,Blender,Top Account,2025-05,0.016430432629104416
+Canteen|CKM|Top Account,Canteen,CKM,Top Account,2025-05,0.010749510692586098
+Canteen|Combos|Top Account,Canteen,Combos,Top Account,2025-05,0.01142306539492972
+Canteen|FP|Top Account,Canteen,FP,Top Account,2025-05,0.009601490973325454
+Canteen|Gift Combos|Top Account,Canteen,Gift Combos,Top Account,2025-05,0.01142306539492972
+Canteen|NB Smart 2 Jar|Top Account,Canteen,NB Smart 2 Jar,Top Account,2025-05,0.008129564295105739
+Canteen|NB Smart 3 Jar|Top Account,Canteen,NB Smart 3 Jar,Top Account,2025-05,0.010512440136270272
+Canteen|NB Smart CKM|Top Account,Canteen,NB Smart CKM,Top Account,2025-05,0.007920675906336532
+Canteen|Personal Blender|Top Account,Canteen,Personal Blender,Top Account,2025-05,0.01142306539492972
+Canteen|Sipper Jar|Top Account,Canteen,Sipper Jar,Top Account,2025-05,0.013492446765067235
+Canteen|Storm|Top Account,Canteen,Storm,Top Account,2025-05,0.01142306539492972
+Canteen|Thunder|Top Account,Canteen,Thunder,Top Account,2025-05,0.01142306539492972
+DTH|1 Jar|Key Account,DTH,1 Jar,Key Account,2025-05,0.018444924315574884
+DTH|2 Jars|Key Account,DTH,2 Jars,Key Account,2025-05,0.026402968402825706
+DTH|3 Jars|Key Account,DTH,3 Jars,Key Account,2025-05,0.018580250054166386
+DTH|Blender|Key Account,DTH,Blender,Key Account,2025-05,0.026004748592725956
+DTH|CKM|Key Account,DTH,CKM,Key Account,2025-05,0.017946579671591422
+DTH|Combos|Key Account,DTH,Combos,Key Account,2025-05,0.019379096781950655
+DTH|FP|Key Account,DTH,FP,Key Account,2025-05,0.015637064161803015
+DTH|Gift Combos|Key Account,DTH,Gift Combos,Key Account,2025-05,0.019379096781950655
+DTH|NB Smart 2 Jar|Key Account,DTH,NB Smart 2 Jar,Key Account,2025-05,0.013620598588284506
+DTH|NB Smart 3 Jar|Key Account,DTH,NB Smart 3 Jar,Key Account,2025-05,0.017954169886325262
+DTH|NB Smart CKM|Key Account,DTH,NB Smart CKM,Key Account,2025-05,0.01632721152573904
+DTH|Personal Blender|Key Account,DTH,Personal Blender,Key Account,2025-05,0.019379096781950655
+DTH|Sipper Jar|Key Account,DTH,Sipper Jar,Key Account,2025-05,0.023159353404795188
+DTH|Storm|Key Account,DTH,Storm,Key Account,2025-05,0.019379096781950655
+DTH|Thunder|Key Account,DTH,Thunder,Key Account,2025-05,0.019379096781950655
+DTH|1 Jar|Regular,DTH,1 Jar,Regular,2025-05,18.035346486798627
+DTH|2 Jars|Regular,DTH,2 Jars,Regular,2025-05,166.63255322018227
+DTH|3 Jars|Regular,DTH,3 Jars,Regular,2025-05,11.008976044426689
+DTH|Blender|Regular,DTH,Blender,Regular,2025-05,0.02394667777866636
+DTH|CKM|Regular,DTH,CKM,Regular,2025-05,19.813000814684603
+DTH|Combos|Regular,DTH,Combos,Regular,2025-05,0.023753652343101887
+DTH|FP|Regular,DTH,FP,Regular,2025-05,0.017197801325224575
+DTH|Gift Combos|Regular,DTH,Gift Combos,Regular,2025-05,0.023753652343101887
+DTH|NB Smart 2 Jar|Regular,DTH,NB Smart 2 Jar,Regular,2025-05,9.797953261958849
+DTH|NB Smart 3 Jar|Regular,DTH,NB Smart 3 Jar,Regular,2025-05,3.634994254269962
+DTH|NB Smart CKM|Regular,DTH,NB Smart CKM,Regular,2025-05,5.399266490895203
+DTH|Personal Blender|Regular,DTH,Personal Blender,Regular,2025-05,0.023753652343101887
+DTH|Sipper Jar|Regular,DTH,Sipper Jar,Regular,2025-05,0.0283872481498162
+DTH|Storm|Regular,DTH,Storm,Regular,2025-05,0.024120521627378932
+DTH|Thunder|Regular,DTH,Thunder,Regular,2025-05,3.815488513830806
+DTH|1 Jar|Top Account,DTH,1 Jar,Top Account,2025-05,0.012749269887460802
+DTH|2 Jars|Top Account,DTH,2 Jars,Top Account,2025-05,0.016244174324975876
+DTH|3 Jars|Top Account,DTH,3 Jars,Top Account,2025-05,0.012242212771202732
+DTH|Blender|Top Account,DTH,Blender,Top Account,2025-05,0.01757657133140072
+DTH|CKM|Top Account,DTH,CKM,Top Account,2025-05,0.011530985740400896
+DTH|Combos|Top Account,DTH,Combos,Top Account,2025-05,0.012253506968596053
+DTH|FP|Top Account,DTH,FP,Top Account,2025-05,0.010299506523246984
+DTH|Gift Combos|Top Account,DTH,Gift Combos,Top Account,2025-05,0.012253506968596053
+DTH|NB Smart 2 Jar|Top Account,DTH,NB Smart 2 Jar,Top Account,2025-05,0.008612377635341673
+DTH|NB Smart 3 Jar|Top Account,DTH,NB Smart 3 Jar,Top Account,2025-05,0.011352518040074474
+DTH|NB Smart CKM|Top Account,DTH,NB Smart CKM,Top Account,2025-05,0.010304112282485397
+DTH|Personal Blender|Top Account,DTH,Personal Blender,Top Account,2025-05,0.012253506968596053
+DTH|Sipper Jar|Top Account,DTH,Sipper Jar,Top Account,2025-05,0.014473329596147309
+DTH|Storm|Top Account,DTH,Storm,Top Account,2025-05,0.012253506968596053
+DTH|Thunder|Top Account,DTH,Thunder,Top Account,2025-05,0.012253506968596053
+EBO|1 Jar|Key Account,EBO,1 Jar,Key Account,2025-05,0.020582818039756066
+EBO|2 Jars|Key Account,EBO,2 Jars,Key Account,2025-05,0.02961680054484766
+EBO|3 Jars|Key Account,EBO,3 Jars,Key Account,2025-05,0.02075942149287518
+EBO|Blender|Key Account,EBO,Blender,Key Account,2025-05,0.029098673641536957
+EBO|CKM|Key Account,EBO,CKM,Key Account,2025-05,0.020237754962327166
+EBO|Combos|Key Account,EBO,Combos,Key Account,2025-05,0.021625267526899077
+EBO|FP|Key Account,EBO,FP,Key Account,2025-05,0.01744950756163349
+EBO|Gift Combos|Key Account,EBO,Gift Combos,Key Account,2025-05,0.021625267526899077
+EBO|NB Smart 2 Jar|Key Account,EBO,NB Smart 2 Jar,Key Account,2025-05,0.015473653508451903
+EBO|NB Smart 3 Jar|Key Account,EBO,NB Smart 3 Jar,Key Account,2025-05,0.019901341929484312
+EBO|NB Smart CKM|Key Account,EBO,NB Smart CKM,Key Account,2025-05,0.014923976203043782
+EBO|Personal Blender|Key Account,EBO,Personal Blender,Key Account,2025-05,0.021625267526899077
+EBO|Sipper Jar|Key Account,EBO,Sipper Jar,Key Account,2025-05,0.025843681919951938
+EBO|Storm|Key Account,EBO,Storm,Key Account,2025-05,0.021625267526899077
+EBO|Thunder|Key Account,EBO,Thunder,Key Account,2025-05,0.021625267526899077
+EBO|1 Jar|Regular,EBO,1 Jar,Regular,2025-05,58.639927719209766
+EBO|2 Jars|Regular,EBO,2 Jars,Regular,2025-05,156.0732253132291
+EBO|3 Jars|Regular,EBO,3 Jars,Regular,2025-05,62.033441286602624
+EBO|Blender|Regular,EBO,Blender,Regular,2025-05,0.02679574305422706
+EBO|CKM|Regular,EBO,CKM,Regular,2025-05,57.0658960994756
+EBO|Combos|Regular,EBO,Combos,Regular,2025-05,0.02650686419704364
+EBO|FP|Regular,EBO,FP,Regular,2025-05,7.075051263998368
+EBO|Gift Combos|Regular,EBO,Gift Combos,Regular,2025-05,0.02650686419704364
+EBO|NB Smart 2 Jar|Regular,EBO,NB Smart 2 Jar,Regular,2025-05,11.501981603031773
+EBO|NB Smart 3 Jar|Regular,EBO,NB Smart 3 Jar,Regular,2025-05,14.298006463739586
+EBO|NB Smart CKM|Regular,EBO,NB Smart CKM,Regular,2025-05,14.697417811456406
+EBO|Personal Blender|Regular,EBO,Personal Blender,Regular,2025-05,0.02650686419704364
+EBO|Sipper Jar|Regular,EBO,Sipper Jar,Regular,2025-05,0.031677525660742084
+EBO|Storm|Regular,EBO,Storm,Regular,2025-05,30.98692363296773
+EBO|Thunder|Regular,EBO,Thunder,Regular,2025-05,9.511349588893477
+EBO|1 Jar|Top Account,EBO,1 Jar,Top Account,2025-05,0.014226998048008387
+EBO|2 Jars|Top Account,EBO,2 Jars,Top Account,2025-05,0.018221453878157774
+EBO|3 Jars|Top Account,EBO,3 Jars,Top Account,2025-05,0.013678032006133748
+EBO|Blender|Top Account,EBO,Blender,Top Account,2025-05,0.019667750721985004
+EBO|CKM|Top Account,EBO,CKM,Top Account,2025-05,0.01300310522443008
+EBO|Combos|Top Account,EBO,Combos,Top Account,2025-05,0.013673772793446878
+EBO|FP|Top Account,EBO,FP,Top Account,2025-05,0.011493290242902536
+EBO|Gift Combos|Top Account,EBO,Gift Combos,Top Account,2025-05,0.013673772793446878
+EBO|NB Smart 2 Jar|Top Account,EBO,NB Smart 2 Jar,Top Account,2025-05,0.009784074212996945
+EBO|NB Smart 3 Jar|Top Account,EBO,NB Smart 3 Jar,Top Account,2025-05,0.012583725380043287
+EBO|NB Smart CKM|Top Account,EBO,NB Smart CKM,Top Account,2025-05,0.009418529689217248
+EBO|Personal Blender|Top Account,EBO,Personal Blender,Top Account,2025-05,0.013673772793446878
+EBO|Sipper Jar|Top Account,EBO,Sipper Jar,Top Account,2025-05,0.016150888147335337
+EBO|Storm|Top Account,EBO,Storm,Top Account,2025-05,0.013673772793446878
+EBO|Thunder|Top Account,EBO,Thunder,Top Account,2025-05,0.013673772793446878
+ECOM B2B|1 Jar|Key Account,ECOM B2B,1 Jar,Key Account,2025-05,2171.0935513855698
+ECOM B2B|2 Jars|Key Account,ECOM B2B,2 Jars,Key Account,2025-05,2219.5185501609963
+ECOM B2B|3 Jars|Key Account,ECOM B2B,3 Jars,Key Account,2025-05,406.67770787376526
+ECOM B2B|Blender|Key Account,ECOM B2B,Blender,Key Account,2025-05,0.03444067384224745
+ECOM B2B|CKM|Key Account,ECOM B2B,CKM,Key Account,2025-05,346.3108496763946
+ECOM B2B|Combos|Key Account,ECOM B2B,Combos,Key Account,2025-05,0.025294126867935047
+ECOM B2B|FP|Key Account,ECOM B2B,FP,Key Account,2025-05,33.67708871964412
+ECOM B2B|Gift Combos|Key Account,ECOM B2B,Gift Combos,Key Account,2025-05,0.025294126867935047
+ECOM B2B|NB Smart 2 Jar|Key Account,ECOM B2B,NB Smart 2 Jar,Key Account,2025-05,0.017449324809653943
+ECOM B2B|NB Smart 3 Jar|Key Account,ECOM B2B,NB Smart 3 Jar,Key Account,2025-05,0.021604533839024324
+ECOM B2B|NB Smart CKM|Key Account,ECOM B2B,NB Smart CKM,Key Account,2025-05,0.015426571325035153
+ECOM B2B|Personal Blender|Key Account,ECOM B2B,Personal Blender,Key Account,2025-05,0.025294126867935047
+ECOM B2B|Sipper Jar|Key Account,ECOM B2B,Sipper Jar,Key Account,2025-05,0.030228221149389816
+ECOM B2B|Storm|Key Account,ECOM B2B,Storm,Key Account,2025-05,0.025294126867935047
+ECOM B2B|Thunder|Key Account,ECOM B2B,Thunder,Key Account,2025-05,0.023382863750763816
+ECOM B2B|1 Jar|Regular,ECOM B2B,1 Jar,Regular,2025-05,1301.0327463969618
+ECOM B2B|2 Jars|Regular,ECOM B2B,2 Jars,Regular,2025-05,573.08364952752
+ECOM B2B|3 Jars|Regular,ECOM B2B,3 Jars,Regular,2025-05,35.41897251221744
+ECOM B2B|Blender|Regular,ECOM B2B,Blender,Regular,2025-05,0.0324919597144879
+ECOM B2B|CKM|Regular,ECOM B2B,CKM,Regular,2025-05,40.371639791765915
+ECOM B2B|Combos|Regular,ECOM B2B,Combos,Regular,2025-05,0.031003916369458567
+ECOM B2B|FP|Regular,ECOM B2B,FP,Regular,2025-05,0.0253494502410777
+ECOM B2B|Gift Combos|Regular,ECOM B2B,Gift Combos,Regular,2025-05,0.031003916369458567
+ECOM B2B|NB Smart 2 Jar|Regular,ECOM B2B,NB Smart 2 Jar,Regular,2025-05,0.01985844436614058
+ECOM B2B|NB Smart 3 Jar|Regular,ECOM B2B,NB Smart 3 Jar,Regular,2025-05,0.028641432557779487
+ECOM B2B|NB Smart CKM|Regular,ECOM B2B,NB Smart CKM,Regular,2025-05,0.018458154566438137
+ECOM B2B|Personal Blender|Regular,ECOM B2B,Personal Blender,Regular,2025-05,0.031003916369458567
+ECOM B2B|Sipper Jar|Regular,ECOM B2B,Sipper Jar,Regular,2025-05,0.03705181228063046
+ECOM B2B|Storm|Regular,ECOM B2B,Storm,Regular,2025-05,21.673927750916064
+ECOM B2B|Thunder|Regular,ECOM B2B,Thunder,Regular,2025-05,0.027792860019974587
+ECOM B2B|1 Jar|Top Account,ECOM B2B,1 Jar,Top Account,2025-05,345.3146983096395
+ECOM B2B|2 Jars|Top Account,ECOM B2B,2 Jars,Top Account,2025-05,1307.5398143280863
+ECOM B2B|3 Jars|Top Account,ECOM B2B,3 Jars,Top Account,2025-05,41.3232026537542
+ECOM B2B|Blender|Top Account,ECOM B2B,Blender,Top Account,2025-05,0.02327840080173271
+ECOM B2B|CKM|Top Account,ECOM B2B,CKM,Top Account,2025-05,424.71846031996375
+ECOM B2B|Combos|Top Account,ECOM B2B,Combos,Top Account,2025-05,0.015993612258001024
+ECOM B2B|FP|Top Account,ECOM B2B,FP,Top Account,2025-05,0.013443197462059983
+ECOM B2B|Gift Combos|Top Account,ECOM B2B,Gift Combos,Top Account,2025-05,0.015993612258001024
+ECOM B2B|NB Smart 2 Jar|Top Account,ECOM B2B,NB Smart 2 Jar,Top Account,2025-05,15.965629997948776
+ECOM B2B|NB Smart 3 Jar|Top Account,ECOM B2B,NB Smart 3 Jar,Top Account,2025-05,0.014093012634599542
+ECOM B2B|NB Smart CKM|Top Account,ECOM B2B,NB Smart CKM,Top Account,2025-05,0.01037168554954229
+ECOM B2B|Personal Blender|Top Account,ECOM B2B,Personal Blender,Top Account,2025-05,0.015993612258001024
+ECOM B2B|Sipper Jar|Top Account,ECOM B2B,Sipper Jar,Top Account,2025-05,0.018890985432683235
+ECOM B2B|Storm|Top Account,ECOM B2B,Storm,Top Account,2025-05,0.015993612258001024
+ECOM B2B|Thunder|Top Account,ECOM B2B,Thunder,Top Account,2025-05,0.015993612258001024
+ECOM B2C|1 Jar|Key Account,ECOM B2C,1 Jar,Key Account,2025-05,0.01393390268479527
+ECOM B2C|2 Jars|Key Account,ECOM B2C,2 Jars,Key Account,2025-05,0.020049616910075438
+ECOM B2C|3 Jars|Key Account,ECOM B2C,3 Jars,Key Account,2025-05,0.014448954359895955
+ECOM B2C|Blender|Key Account,ECOM B2C,Blender,Key Account,2025-05,0.019669373095588288
+ECOM B2C|CKM|Key Account,ECOM B2C,CKM,Key Account,2025-05,0.013700306131994603
+ECOM B2C|Combos|Key Account,ECOM B2C,Combos,Key Account,2025-05,0.01463960730112183
+ECOM B2C|FP|Key Account,ECOM B2C,FP,Key Account,2025-05,0.011852330225896105
+ECOM B2C|Gift Combos|Key Account,ECOM B2C,Gift Combos,Key Account,2025-05,0.01463960730112183
+ECOM B2C|NB Smart 2 Jar|Key Account,ECOM B2C,NB Smart 2 Jar,Key Account,2025-05,0.010570103211748989
+ECOM B2C|NB Smart 3 Jar|Key Account,ECOM B2C,NB Smart 3 Jar,Key Account,2025-05,0.013870912727274165
+ECOM B2C|NB Smart CKM|Key Account,ECOM B2C,NB Smart CKM,Key Account,2025-05,0.011491087819417857
+ECOM B2C|Personal Blender|Key Account,ECOM B2C,Personal Blender,Key Account,2025-05,0.01463960730112183
+ECOM B2C|Sipper Jar|Key Account,ECOM B2C,Sipper Jar,Key Account,2025-05,0.017495337528314527
+ECOM B2C|Storm|Key Account,ECOM B2C,Storm,Key Account,2025-05,0.01463960730112183
+ECOM B2C|Thunder|Key Account,ECOM B2C,Thunder,Key Account,2025-05,0.01463960730112183
+ECOM B2C|1 Jar|Regular,ECOM B2C,1 Jar,Regular,2025-05,261.86376682909724
+ECOM B2C|2 Jars|Regular,ECOM B2C,2 Jars,Regular,2025-05,429.5034241561031
+ECOM B2C|3 Jars|Regular,ECOM B2C,3 Jars,Regular,2025-05,350.9796563105392
+ECOM B2C|Blender|Regular,ECOM B2C,Blender,Regular,2025-05,0.018112697300222094
+ECOM B2C|CKM|Regular,ECOM B2C,CKM,Regular,2025-05,70.81309558771483
+ECOM B2C|Combos|Regular,ECOM B2C,Combos,Regular,2025-05,0.018363978247417093
+ECOM B2C|FP|Regular,ECOM B2C,FP,Regular,2025-05,43.84442423526537
+ECOM B2C|Gift Combos|Regular,ECOM B2C,Gift Combos,Regular,2025-05,0.01617544965629935
+ECOM B2C|NB Smart 2 Jar|Regular,ECOM B2C,NB Smart 2 Jar,Regular,2025-05,7.1956565858760255
+ECOM B2C|NB Smart 3 Jar|Regular,ECOM B2C,NB Smart 3 Jar,Regular,2025-05,7.331055179564569
+ECOM B2C|NB Smart CKM|Regular,ECOM B2C,NB Smart CKM,Regular,2025-05,6.75556172108106
+ECOM B2C|Personal Blender|Regular,ECOM B2C,Personal Blender,Regular,2025-05,0.017944290499352207
+ECOM B2C|Sipper Jar|Regular,ECOM B2C,Sipper Jar,Regular,2025-05,0.02144466122176905
+ECOM B2C|Storm|Regular,ECOM B2C,Storm,Regular,2025-05,3.3709248944916506
+ECOM B2C|Thunder|Regular,ECOM B2C,Thunder,Regular,2025-05,2.749827133394268
+ECOM B2C|1 Jar|Top Account,ECOM B2C,1 Jar,Top Account,2025-05,0.009737245182971041
+ECOM B2C|2 Jars|Top Account,ECOM B2C,2 Jars,Top Account,2025-05,0.01247113153478354
+ECOM B2C|3 Jars|Top Account,ECOM B2C,3 Jars,Top Account,2025-05,0.009692032723445074
+ECOM B2C|Blender|Top Account,ECOM B2C,Blender,Top Account,2025-05,0.013440855594475973
+ECOM B2C|CKM|Top Account,ECOM B2C,CKM,Top Account,2025-05,0.008899588183184726
+ECOM B2C|Combos|Top Account,ECOM B2C,Combos,Top Account,2025-05,0.0093586066306286
+ECOM B2C|FP|Top Account,ECOM B2C,FP,Top Account,2025-05,0.007892595351514573
+ECOM B2C|Gift Combos|Top Account,ECOM B2C,Gift Combos,Top Account,2025-05,0.0093586066306286
+ECOM B2C|NB Smart 2 Jar|Top Account,ECOM B2C,NB Smart 2 Jar,Top Account,2025-05,0.0067571100760552795
+ECOM B2C|NB Smart 3 Jar|Top Account,ECOM B2C,NB Smart 3 Jar,Top Account,2025-05,0.008867206145098649
+ECOM B2C|NB Smart CKM|Top Account,ECOM B2C,NB Smart CKM,Top Account,2025-05,0.0073458644380234705
+ECOM B2C|Personal Blender|Top Account,ECOM B2C,Personal Blender,Top Account,2025-05,0.0093586066306286
+ECOM B2C|Sipper Jar|Top Account,ECOM B2C,Sipper Jar,Top Account,2025-05,0.011053994474636245
+ECOM B2C|Storm|Top Account,ECOM B2C,Storm,Top Account,2025-05,0.0093586066306286
+ECOM B2C|Thunder|Top Account,ECOM B2C,Thunder,Top Account,2025-05,0.0093586066306286
+Export|1 Jar|Key Account,Export,1 Jar,Key Account,2025-05,0.016466143805086896
+Export|2 Jars|Key Account,Export,2 Jars,Key Account,2025-05,0.021295829034454112
+Export|3 Jars|Key Account,Export,3 Jars,Key Account,2025-05,0.02422463729800168
+Export|Blender|Key Account,Export,Blender,Key Account,2025-05,0.018621651889571666
+Export|CKM|Key Account,Export,CKM,Key Account,2025-05,0.016335214967589027
+Export|Combos|Key Account,Export,Combos,Key Account,2025-05,0.01689198453987729
+Export|FP|Key Account,Export,FP,Key Account,2025-05,0.013645781812037221
+Export|Gift Combos|Key Account,Export,Gift Combos,Key Account,2025-05,0.01689198453987729
+Export|NB Smart 2 Jar|Key Account,Export,NB Smart 2 Jar,Key Account,2025-05,0.012889884769878703
+Export|NB Smart 3 Jar|Key Account,Export,NB Smart 3 Jar,Key Account,2025-05,0.016200070883425323
+Export|NB Smart CKM|Key Account,Export,NB Smart CKM,Key Account,2025-05,0.012954977389911164
+Export|Personal Blender|Key Account,Export,Personal Blender,Key Account,2025-05,0.01689198453987729
+Export|Sipper Jar|Key Account,Export,Sipper Jar,Key Account,2025-05,0.018489672532019677
+Export|Storm|Key Account,Export,Storm,Key Account,2025-05,0.01689198453987729
+Export|Thunder|Key Account,Export,Thunder,Key Account,2025-05,0.036566996253299684
+Export|1 Jar|Regular,Export,1 Jar,Regular,2025-05,0.018258547349079318
+Export|2 Jars|Regular,Export,2 Jars,Regular,2025-05,24.744094069023372
+Export|3 Jars|Regular,Export,3 Jars,Regular,2025-05,15.845463204004027
+Export|Blender|Regular,Export,Blender,Regular,2025-05,0.018715601777718062
+Export|CKM|Regular,Export,CKM,Regular,2025-05,33.90328432175548
+Export|Combos|Regular,Export,Combos,Regular,2025-05,0.01856474213788052
+Export|FP|Regular,Export,FP,Regular,2025-05,0.014997078644738713
+Export|Gift Combos|Regular,Export,Gift Combos,Regular,2025-05,0.01856474213788052
+Export|NB Smart 2 Jar|Regular,Export,NB Smart 2 Jar,Regular,2025-05,41.72732015367699
+Export|NB Smart 3 Jar|Regular,Export,NB Smart 3 Jar,Regular,2025-05,0.02246530292979758
+Export|NB Smart CKM|Regular,Export,NB Smart CKM,Regular,2025-05,0.014125204002756313
+Export|Personal Blender|Regular,Export,Personal Blender,Regular,2025-05,0.01856474213788052
+Export|Sipper Jar|Regular,Export,Sipper Jar,Regular,2025-05,0.020320643910161338
+Export|Storm|Regular,Export,Storm,Regular,2025-05,20.425985197391835
+Export|Thunder|Regular,Export,Thunder,Regular,2025-05,71.50569914614691
+Export|1 Jar|Top Account,Export,1 Jar,Top Account,2025-05,0.011389068765119583
+Export|2 Jars|Top Account,Export,2 Jars,Top Account,2025-05,0.013147278604418907
+Export|3 Jars|Top Account,Export,3 Jars,Top Account,2025-05,0.01594363583406788
+Export|Blender|Top Account,Export,Blender,Top Account,2025-05,0.012629790143105517
+Export|CKM|Top Account,Export,CKM,Top Account,2025-05,0.010531883027164816
+Export|Combos|Top Account,Export,Combos,Top Account,2025-05,0.010717758692958225
+Export|FP|Top Account,Export,FP,Top Account,2025-05,0.009018951486209136
+Export|Gift Combos|Top Account,Export,Gift Combos,Top Account,2025-05,0.010717758692958225
+Export|NB Smart 2 Jar|Top Account,Export,NB Smart 2 Jar,Top Account,2025-05,0.008178475076002015
+Export|NB Smart 3 Jar|Top Account,Export,NB Smart 3 Jar,Top Account,2025-05,0.010278747895339514
+Export|NB Smart CKM|Top Account,Export,NB Smart CKM,Top Account,2025-05,0.008204113343069346
+Export|Personal Blender|Top Account,Export,Personal Blender,Top Account,2025-05,0.010717758692958225
+Export|Sipper Jar|Top Account,Export,Sipper Jar,Top Account,2025-05,0.011594917712741114
+Export|Storm|Top Account,Export,Storm,Top Account,2025-05,0.010717758692958225
+Export|Thunder|Top Account,Export,Thunder,Top Account,2025-05,0.023201314270917584
+GT|1 Jar|Key Account,GT,1 Jar,Key Account,2025-05,371.6722082456762
+GT|2 Jars|Key Account,GT,2 Jars,Key Account,2025-05,1249.2404669840546
+GT|3 Jars|Key Account,GT,3 Jars,Key Account,2025-05,133.22963012296375
+GT|Blender|Key Account,GT,Blender,Key Account,2025-05,0.04126376934725978
+GT|CKM|Key Account,GT,CKM,Key Account,2025-05,203.13072637062703
+GT|Combos|Key Account,GT,Combos,Key Account,2025-05,0.029412834389629022
+GT|FP|Key Account,GT,FP,Key Account,2025-05,0.02331772355065989
+GT|Gift Combos|Key Account,GT,Gift Combos,Key Account,2025-05,0.029412834389629022
+GT|NB Smart 2 Jar|Key Account,GT,NB Smart 2 Jar,Key Account,2025-05,0.019606279905142365
+GT|NB Smart 3 Jar|Key Account,GT,NB Smart 3 Jar,Key Account,2025-05,0.027171590274754968
+GT|NB Smart CKM|Key Account,GT,NB Smart CKM,Key Account,2025-05,0.021417552842386285
+GT|Personal Blender|Key Account,GT,Personal Blender,Key Account,2025-05,0.029412834389629022
+GT|Sipper Jar|Key Account,GT,Sipper Jar,Key Account,2025-05,0.03515035989193123
+GT|Storm|Key Account,GT,Storm,Key Account,2025-05,21.989286221381782
+GT|Thunder|Key Account,GT,Thunder,Key Account,2025-05,0.02739942639572929
+GT|1 Jar|Regular,GT,1 Jar,Regular,2025-05,1670.7508061805054
+GT|2 Jars|Regular,GT,2 Jars,Regular,2025-05,3733.789478103084
+GT|3 Jars|Regular,GT,3 Jars,Regular,2025-05,814.9084224798909
+GT|Blender|Regular,GT,Blender,Regular,2025-05,0.03765905200184762
+GT|CKM|Regular,GT,CKM,Regular,2025-05,561.2780997860655
+GT|Combos|Regular,GT,Combos,Regular,2025-05,0.03599060375747551
+GT|FP|Regular,GT,FP,Regular,2025-05,11.122910505519991
+GT|Gift Combos|Regular,GT,Gift Combos,Regular,2025-05,0.03599060375747551
+GT|NB Smart 2 Jar|Regular,GT,NB Smart 2 Jar,Regular,2025-05,31.48886936564717
+GT|NB Smart 3 Jar|Regular,GT,NB Smart 3 Jar,Regular,2025-05,29.458193350372817
+GT|NB Smart CKM|Regular,GT,NB Smart CKM,Regular,2025-05,13.44998556187275
+GT|Personal Blender|Regular,GT,Personal Blender,Regular,2025-05,0.03599060375747551
+GT|Sipper Jar|Regular,GT,Sipper Jar,Regular,2025-05,0.04301124665663725
+GT|Storm|Regular,GT,Storm,Regular,2025-05,51.394277507146334
+GT|Thunder|Regular,GT,Thunder,Regular,2025-05,51.00556060197351
+GT|1 Jar|Top Account,GT,1 Jar,Top Account,2025-05,0.01658275566214438
+GT|2 Jars|Top Account,GT,2 Jars,Top Account,2025-05,0.021768082446317102
+GT|3 Jars|Top Account,GT,3 Jars,Top Account,2025-05,0.01654909142889808
+GT|Blender|Top Account,GT,Blender,Top Account,2025-05,0.0236667900455276
+GT|CKM|Top Account,GT,CKM,Top Account,2025-05,0.015162024807004449
+GT|Combos|Top Account,GT,Combos,Top Account,2025-05,0.016335239520966972
+GT|FP|Top Account,GT,FP,Top Account,2025-05,0.013673781643927848
+GT|Gift Combos|Top Account,GT,Gift Combos,Top Account,2025-05,0.016335239520966972
+GT|NB Smart 2 Jar|Top Account,GT,NB Smart 2 Jar,Top Account,2025-05,0.01173220094628288
+GT|NB Smart 3 Jar|Top Account,GT,NB Smart 3 Jar,Top Account,2025-05,0.01509050197012643
+GT|NB Smart CKM|Top Account,GT,NB Smart CKM,Top Account,2025-05,0.011872171704774793
+GT|Personal Blender|Top Account,GT,Personal Blender,Top Account,2025-05,0.016335239520966972
+GT|Sipper Jar|Top Account,GT,Sipper Jar,Top Account,2025-05,0.019294501257875803
+GT|Storm|Top Account,GT,Storm,Top Account,2025-05,0.016335239520966972
+GT|Thunder|Top Account,GT,Thunder,Top Account,2025-05,0.016335239520966972
+MT|1 Jar|Key Account,MT,1 Jar,Key Account,2025-05,455.4755499845191
+MT|2 Jars|Key Account,MT,2 Jars,Key Account,2025-05,1480.7042162403038
+MT|3 Jars|Key Account,MT,3 Jars,Key Account,2025-05,457.414831739593
+MT|Blender|Key Account,MT,Blender,Key Account,2025-05,0.02530697064034552
+MT|CKM|Key Account,MT,CKM,Key Account,2025-05,463.13149346371455
+MT|Combos|Key Account,MT,Combos,Key Account,2025-05,0.018431020599765285
+MT|FP|Key Account,MT,FP,Key Account,2025-05,0.015491925485813152
+MT|Gift Combos|Key Account,MT,Gift Combos,Key Account,2025-05,0.018431020599765285
+MT|NB Smart 2 Jar|Key Account,MT,NB Smart 2 Jar,Key Account,2025-05,62.7629025536686
+MT|NB Smart 3 Jar|Key Account,MT,NB Smart 3 Jar,Key Account,2025-05,0.017437630153728945
+MT|NB Smart CKM|Key Account,MT,NB Smart CKM,Key Account,2025-05,0.01407670142445162
+MT|Personal Blender|Key Account,MT,Personal Blender,Key Account,2025-05,0.018431020599765285
+MT|Sipper Jar|Key Account,MT,Sipper Jar,Key Account,2025-05,0.02176995015528583
+MT|Storm|Key Account,MT,Storm,Key Account,2025-05,0.018431020599765285
+MT|Thunder|Key Account,MT,Thunder,Key Account,2025-05,0.018431020599765285
+MT|1 Jar|Regular,MT,1 Jar,Regular,2025-05,57.517627777388086
+MT|2 Jars|Regular,MT,2 Jars,Regular,2025-05,458.21919131850825
+MT|3 Jars|Regular,MT,3 Jars,Regular,2025-05,17.4055183679525
+MT|Blender|Regular,MT,Blender,Regular,2025-05,0.02901211995350333
+MT|CKM|Regular,MT,CKM,Regular,2025-05,237.68437046228104
+MT|Combos|Regular,MT,Combos,Regular,2025-05,0.028125026540271224
+MT|FP|Regular,MT,FP,Regular,2025-05,2.739450129425867
+MT|Gift Combos|Regular,MT,Gift Combos,Regular,2025-05,0.028125026540271224
+MT|NB Smart 2 Jar|Regular,MT,NB Smart 2 Jar,Regular,2025-05,32.36463844358389
+MT|NB Smart 3 Jar|Regular,MT,NB Smart 3 Jar,Regular,2025-05,0.026333444878653897
+MT|NB Smart CKM|Regular,MT,NB Smart CKM,Regular,2025-05,61.09160704531328
+MT|Personal Blender|Regular,MT,Personal Blender,Regular,2025-05,0.028125026540271224
+MT|Sipper Jar|Regular,MT,Sipper Jar,Regular,2025-05,0.03322010425757936
+MT|Storm|Regular,MT,Storm,Regular,2025-05,56.795111720524446
+MT|Thunder|Regular,MT,Thunder,Regular,2025-05,9.873066927600753
+MT|1 Jar|Top Account,MT,1 Jar,Top Account,2025-05,0.21005948508249683
+MT|2 Jars|Top Account,MT,2 Jars,Top Account,2025-05,585.9497423671522
+MT|3 Jars|Top Account,MT,3 Jars,Top Account,2025-05,0.01635023202338942
+MT|Blender|Top Account,MT,Blender,Top Account,2025-05,0.02385472169898109
+MT|CKM|Top Account,MT,CKM,Top Account,2025-05,0.01538562655419507
+MT|Combos|Top Account,MT,Combos,Top Account,2025-05,0.01634967611983978
+MT|FP|Top Account,MT,FP,Top Account,2025-05,0.013742481746722296
+MT|Gift Combos|Top Account,MT,Gift Combos,Top Account,2025-05,0.01634967611983978
+MT|NB Smart 2 Jar|Top Account,MT,NB Smart 2 Jar,Top Account,2025-05,0.011491370211031235
+MT|NB Smart 3 Jar|Top Account,MT,NB Smart 3 Jar,Top Account,2025-05,0.015249885477177717
+MT|NB Smart CKM|Top Account,MT,NB Smart CKM,Top Account,2025-05,0.0115125429384545
+MT|Personal Blender|Top Account,MT,Personal Blender,Top Account,2025-05,0.01634967611983978
+MT|Sipper Jar|Top Account,MT,Sipper Jar,Top Account,2025-05,0.01931155316426221
+MT|Storm|Top Account,MT,Storm,Top Account,2025-05,0.01634967611983978
+MT|Thunder|Top Account,MT,Thunder,Top Account,2025-05,0.01634967611983978
+Others|1 Jar|Key Account,Others,1 Jar,Key Account,2025-05,0.03031191930986903
+Others|2 Jars|Key Account,Others,2 Jars,Key Account,2025-05,0.03488875865829931
+Others|3 Jars|Key Account,Others,3 Jars,Key Account,2025-05,0.0248989099776439
+Others|Blender|Key Account,Others,Blender,Key Account,2025-05,0.03494411267479035
+Others|CKM|Key Account,Others,CKM,Key Account,2025-05,0.024049744774525712
+Others|Combos|Key Account,Others,Combos,Key Account,2025-05,0.025969423706094816
+Others|FP|Key Account,Others,FP,Key Account,2025-05,0.02242603696664156
+Others|Gift Combos|Key Account,Others,Gift Combos,Key Account,2025-05,0.025969423706094816
+Others|NB Smart 2 Jar|Key Account,Others,NB Smart 2 Jar,Key Account,2025-05,0.018252610008080716
+Others|NB Smart 3 Jar|Key Account,Others,NB Smart 3 Jar,Key Account,2025-05,0.023899190160019176
+Others|NB Smart CKM|Key Account,Others,NB Smart CKM,Key Account,2025-05,0.017457624036376303
+Others|Personal Blender|Key Account,Others,Personal Blender,Key Account,2025-05,0.025969423706094816
+Others|Sipper Jar|Key Account,Others,Sipper Jar,Key Account,2025-05,0.031035247312892398
+Others|Storm|Key Account,Others,Storm,Key Account,2025-05,0.025969423706094816
+Others|Thunder|Key Account,Others,Thunder,Key Account,2025-05,0.025969423706094816
+Others|1 Jar|Regular,Others,1 Jar,Regular,2025-05,0.04050653327639645
+Others|2 Jars|Regular,Others,2 Jars,Regular,2025-05,32.862892344495855
+Others|3 Jars|Regular,Others,3 Jars,Regular,2025-05,0.030539467670404698
+Others|Blender|Regular,Others,Blender,Regular,2025-05,0.03217856167695018
+Others|CKM|Regular,Others,CKM,Regular,2025-05,3.5382790979623886
+Others|Combos|Regular,Others,Combos,Regular,2025-05,0.031831651867275115
+Others|FP|Regular,Others,FP,Regular,2025-05,0.027853495159530006
+Others|Gift Combos|Regular,Others,Gift Combos,Regular,2025-05,0.031831651867275115
+Others|NB Smart 2 Jar|Regular,Others,NB Smart 2 Jar,Regular,2025-05,0.02220368487373446
+Others|NB Smart 3 Jar|Regular,Others,NB Smart 3 Jar,Regular,2025-05,0.029406095000868344
+Others|NB Smart CKM|Regular,Others,NB Smart CKM,Regular,2025-05,0.020888343627158235
+Others|Personal Blender|Regular,Others,Personal Blender,Regular,2025-05,0.031831651867275115
+Others|Sipper Jar|Regular,Others,Sipper Jar,Regular,2025-05,0.03804101312602187
+Others|Storm|Regular,Others,Storm,Regular,2025-05,0.033494198678914636
+Others|Thunder|Regular,Others,Thunder,Regular,2025-05,11.464625677626167
+Others|1 Jar|Top Account,Others,1 Jar,Top Account,2025-05,0.01708496507222133
+Others|2 Jars|Top Account,Others,2 Jars,Top Account,2025-05,0.02146497579290257
+Others|3 Jars|Top Account,Others,3 Jars,Top Account,2025-05,0.016405471015121655
+Others|Blender|Top Account,Others,Blender,Top Account,2025-05,0.023618674368294415
+Others|CKM|Top Account,Others,CKM,Top Account,2025-05,0.015452374164327043
+Others|Combos|Top Account,Others,Combos,Top Account,2025-05,0.016420606075378937
+Others|FP|Top Account,Others,FP,Top Account,2025-05,0.01477113041415508
+Others|Gift Combos|Top Account,Others,Gift Combos,Top Account,2025-05,0.016420606075378937
+Others|NB Smart 2 Jar|Top Account,Others,NB Smart 2 Jar,Top Account,2025-05,0.011541223331801213
+Others|NB Smart 3 Jar|Top Account,Others,NB Smart 3 Jar,Top Account,2025-05,0.015111586286227262
+Others|NB Smart CKM|Top Account,Others,NB Smart CKM,Top Account,2025-05,0.011017516247196123
+Others|Personal Blender|Top Account,Others,Personal Blender,Top Account,2025-05,0.016420606075378937
+Others|Sipper Jar|Top Account,Others,Sipper Jar,Top Account,2025-05,0.019395332659176555
+Others|Storm|Top Account,Others,Storm,Top Account,2025-05,0.016420606075378937
+Others|Thunder|Top Account,Others,Thunder,Top Account,2025-05,0.016420606075378937
+Website|1 Jar|Key Account,Website,1 Jar,Key Account,2025-05,0.014800376344699155
+Website|2 Jars|Key Account,Website,2 Jars,Key Account,2025-05,0.019975840880540587
+Website|3 Jars|Key Account,Website,3 Jars,Key Account,2025-05,0.015165455243680777
+Website|Blender|Key Account,Website,Blender,Key Account,2025-05,0.02117729394458588
+Website|CKM|Key Account,Website,CKM,Key Account,2025-05,0.01455225369216716
+Website|Combos|Key Account,Website,Combos,Key Account,2025-05,0.01554996489473419
+Website|FP|Key Account,Website,FP,Key Account,2025-05,0.012858643625785822
+Website|Gift Combos|Key Account,Website,Gift Combos,Key Account,2025-05,0.01554996489473419
+Website|NB Smart 2 Jar|Key Account,Website,NB Smart 2 Jar,Key Account,2025-05,0.012189410850991428
+Website|NB Smart 3 Jar|Key Account,Website,NB Smart 3 Jar,Key Account,2025-05,0.014310350980705662
+Website|NB Smart CKM|Key Account,Website,NB Smart CKM,Key Account,2025-05,0.011965132330083355
+Website|Personal Blender|Key Account,Website,Personal Blender,Key Account,2025-05,0.01554996489473419
+Website|Sipper Jar|Key Account,Website,Sipper Jar,Key Account,2025-05,0.018583277460316117
+Website|Storm|Key Account,Website,Storm,Key Account,2025-05,0.01554996489473419
+Website|Thunder|Key Account,Website,Thunder,Key Account,2025-05,0.01554996489473419
+Website|1 Jar|Regular,Website,1 Jar,Regular,2025-05,44.57072368178885
+Website|2 Jars|Regular,Website,2 Jars,Regular,2025-05,185.19840278195406
+Website|3 Jars|Regular,Website,3 Jars,Regular,2025-05,59.75626029730086
+Website|Blender|Regular,Website,Blender,Regular,2025-05,0.01950127810337507
+Website|CKM|Regular,Website,CKM,Regular,2025-05,66.50018971953962
+Website|Combos|Regular,Website,Combos,Regular,2025-05,0.01906014837600576
+Website|FP|Regular,Website,FP,Regular,2025-05,39.0434726782049
+Website|Gift Combos|Regular,Website,Gift Combos,Regular,2025-05,0.01906014837600576
+Website|NB Smart 2 Jar|Regular,Website,NB Smart 2 Jar,Regular,2025-05,11.587561732685579
+Website|NB Smart 3 Jar|Regular,Website,NB Smart 3 Jar,Regular,2025-05,3.6766302134529023
+Website|NB Smart CKM|Regular,Website,NB Smart CKM,Regular,2025-05,11.596111288129581
+Website|Personal Blender|Regular,Website,Personal Blender,Regular,2025-05,0.01906014837600576
+Website|Sipper Jar|Regular,Website,Sipper Jar,Regular,2025-05,0.02277818812478824
+Website|Storm|Regular,Website,Storm,Regular,2025-05,7.034460332453294
+Website|Thunder|Regular,Website,Thunder,Regular,2025-05,4.033456394790512
+Website|1 Jar|Top Account,Website,1 Jar,Top Account,2025-05,0.010342751526881222
+Website|2 Jars|Top Account,Website,2 Jars,Top Account,2025-05,0.012425241851575619
+Website|3 Jars|Top Account,Website,3 Jars,Top Account,2025-05,0.010102264053410793
+Website|Blender|Top Account,Website,Blender,Top Account,2025-05,0.014471277168197714
+Website|CKM|Top Account,Website,CKM,Top Account,2025-05,0.00945300519198414
+Website|Combos|Top Account,Website,Combos,Top Account,2025-05,0.009940567501339285
+Website|FP|Top Account,Website,FP,Top Account,2025-05,0.00856271036778227
+Website|Gift Combos|Top Account,Website,Gift Combos,Top Account,2025-05,0.009940567501339285
+Website|NB Smart 2 Jar|Top Account,Website,NB Smart 2 Jar,Top Account,2025-05,0.00779227877272384
+Website|NB Smart 3 Jar|Top Account,Website,NB Smart 3 Jar,Top Account,2025-05,0.009148124182565437
+Website|NB Smart CKM|Top Account,Website,NB Smart CKM,Top Account,2025-05,0.007634330632583997
+Website|Personal Blender|Top Account,Website,Personal Blender,Top Account,2025-05,0.009940567501339285
+Website|Sipper Jar|Top Account,Website,Sipper Jar,Top Account,2025-05,0.011741382298827591
+Website|Storm|Top Account,Website,Storm,Top Account,2025-05,0.009940567501339285
+Website|Thunder|Top Account,Website,Thunder,Top Account,2025-05,0.009940567501339285
+CG|1 Jar|Key Account,CG,1 Jar,Key Account,2025-06,100.9757717888576
+CG|2 Jars|Key Account,CG,2 Jars,Key Account,2025-06,78.64317750412917
+CG|3 Jars|Key Account,CG,3 Jars,Key Account,2025-06,106.06844312803076
+CG|Blender|Key Account,CG,Blender,Key Account,2025-06,0.03385513799764588
+CG|CKM|Key Account,CG,CKM,Key Account,2025-06,74.46826269061559
+CG|Combos|Key Account,CG,Combos,Key Account,2025-06,0.025160130161881445
+CG|FP|Key Account,CG,FP,Key Account,2025-06,0.020301801166868062
+CG|Gift Combos|Key Account,CG,Gift Combos,Key Account,2025-06,0.025160130161881445
+CG|NB Smart 2 Jar|Key Account,CG,NB Smart 2 Jar,Key Account,2025-06,16.536038776203586
+CG|NB Smart 3 Jar|Key Account,CG,NB Smart 3 Jar,Key Account,2025-06,38.90129650488529
+CG|NB Smart CKM|Key Account,CG,NB Smart CKM,Key Account,2025-06,7.862631320383765
+CG|Personal Blender|Key Account,CG,Personal Blender,Key Account,2025-06,0.025160130161881445
+CG|Sipper Jar|Key Account,CG,Sipper Jar,Key Account,2025-06,0.030068085870357402
+CG|Storm|Key Account,CG,Storm,Key Account,2025-06,0.025160130161881445
+CG|Thunder|Key Account,CG,Thunder,Key Account,2025-06,0.025160130161881445
+CG|1 Jar|Regular,CG,1 Jar,Regular,2025-06,1132.7881614346904
+CG|2 Jars|Regular,CG,2 Jars,Regular,2025-06,564.8269026307668
+CG|3 Jars|Regular,CG,3 Jars,Regular,2025-06,299.23957619185006
+CG|Blender|Regular,CG,Blender,Regular,2025-06,0.03110252826122066
+CG|CKM|Regular,CG,CKM,Regular,2025-06,442.9512465121532
+CG|Combos|Regular,CG,Combos,Regular,2025-06,0.030767218924904305
+CG|FP|Regular,CG,FP,Regular,2025-06,11.669635232955866
+CG|Gift Combos|Regular,CG,Gift Combos,Regular,2025-06,0.030767218924904305
+CG|NB Smart 2 Jar|Regular,CG,NB Smart 2 Jar,Regular,2025-06,34.991326362390765
+CG|NB Smart 3 Jar|Regular,CG,NB Smart 3 Jar,Regular,2025-06,20.86885272997189
+CG|NB Smart CKM|Regular,CG,NB Smart CKM,Regular,2025-06,9.095220442337983
+CG|Personal Blender|Regular,CG,Personal Blender,Regular,2025-06,0.030767218924904305
+CG|Sipper Jar|Regular,CG,Sipper Jar,Regular,2025-06,0.036768942556095634
+CG|Storm|Regular,CG,Storm,Regular,2025-06,0.030767218924904305
+CG|Thunder|Regular,CG,Thunder,Regular,2025-06,0.029251170558503545
+CG|1 Jar|Top Account,CG,1 Jar,Top Account,2025-06,0.01614393507456219
+CG|2 Jars|Top Account,CG,2 Jars,Top Account,2025-06,0.020676601443288214
+CG|3 Jars|Top Account,CG,3 Jars,Top Account,2025-06,0.015224399453373174
+CG|Blender|Top Account,CG,Blender,Top Account,2025-06,0.022317771440395203
+CG|CKM|Top Account,CG,CKM,Top Account,2025-06,0.014601266329911398
+CG|Combos|Top Account,CG,Combos,Top Account,2025-06,0.015516168587133792
+CG|FP|Top Account,CG,FP,Top Account,2025-06,0.01304188914965744
+CG|Gift Combos|Top Account,CG,Gift Combos,Top Account,2025-06,0.015516168587133792
+CG|NB Smart 2 Jar|Top Account,CG,NB Smart 2 Jar,Top Account,2025-06,0.011659583234629903
+CG|NB Smart 3 Jar|Top Account,CG,NB Smart 3 Jar,Top Account,2025-06,0.014279248851093962
+CG|NB Smart CKM|Top Account,CG,NB Smart CKM,Top Account,2025-06,0.009044388491552096
+CG|Personal Blender|Top Account,CG,Personal Blender,Top Account,2025-06,0.015516168587133792
+CG|Sipper Jar|Top Account,CG,Sipper Jar,Top Account,2025-06,0.018327048950681355
+CG|Storm|Top Account,CG,Storm,Top Account,2025-06,0.015516168587133792
+CG|Thunder|Top Account,CG,Thunder,Top Account,2025-06,0.015516168587133792
+Canteen|1 Jar|Key Account,Canteen,1 Jar,Key Account,2025-06,0.01653527995993674
+Canteen|2 Jars|Key Account,Canteen,2 Jars,Key Account,2025-06,0.02372405197280643
+Canteen|3 Jars|Key Account,Canteen,3 Jars,Key Account,2025-06,0.017672938879645873
+Canteen|Blender|Key Account,Canteen,Blender,Key Account,2025-06,0.023376522796649472
+Canteen|CKM|Key Account,Canteen,CKM,Key Account,2025-06,0.016088530053901987
+Canteen|Combos|Key Account,Canteen,Combos,Key Account,2025-06,0.017372735457075593
+Canteen|FP|Key Account,Canteen,FP,Key Account,2025-06,0.014018123861238931
+Canteen|Gift Combos|Key Account,Canteen,Gift Combos,Key Account,2025-06,0.017372735457075593
+Canteen|NB Smart 2 Jar|Key Account,Canteen,NB Smart 2 Jar,Key Account,2025-06,0.012713803132352772
+Canteen|NB Smart 3 Jar|Key Account,Canteen,NB Smart 3 Jar,Key Account,2025-06,0.015987813706890782
+Canteen|NB Smart CKM|Key Account,Canteen,NB Smart CKM,Key Account,2025-06,0.012069133581095888
+Canteen|Personal Blender|Key Account,Canteen,Personal Blender,Key Account,2025-06,0.017372735457075593
+Canteen|Sipper Jar|Key Account,Canteen,Sipper Jar,Key Account,2025-06,0.020761613638937138
+Canteen|Storm|Key Account,Canteen,Storm,Key Account,2025-06,0.017372735457075593
+Canteen|Thunder|Key Account,Canteen,Thunder,Key Account,2025-06,0.017372735457075593
+Canteen|1 Jar|Regular,Canteen,1 Jar,Regular,2025-06,1.741334936582331
+Canteen|2 Jars|Regular,Canteen,2 Jars,Regular,2025-06,1596.315223577648
+Canteen|3 Jars|Regular,Canteen,3 Jars,Regular,2025-06,472.55250040266384
+Canteen|Blender|Regular,Canteen,Blender,Regular,2025-06,0.021526455331838813
+Canteen|CKM|Regular,Canteen,CKM,Regular,2025-06,108.37491061706645
+Canteen|Combos|Regular,Canteen,Combos,Regular,2025-06,0.021294383476138188
+Canteen|FP|Regular,Canteen,FP,Regular,2025-06,1.3806978606643576
+Canteen|Gift Combos|Regular,Canteen,Gift Combos,Regular,2025-06,0.021294383476138188
+Canteen|NB Smart 2 Jar|Regular,Canteen,NB Smart 2 Jar,Regular,2025-06,9.146198933652407
+Canteen|NB Smart 3 Jar|Regular,Canteen,NB Smart 3 Jar,Regular,2025-06,0.018257763830959603
+Canteen|NB Smart CKM|Regular,Canteen,NB Smart CKM,Regular,2025-06,0.01331026304396916
+Canteen|Personal Blender|Regular,Canteen,Personal Blender,Regular,2025-06,0.021294383476138188
+Canteen|Sipper Jar|Regular,Canteen,Sipper Jar,Regular,2025-06,0.025448252723544864
+Canteen|Storm|Regular,Canteen,Storm,Regular,2025-06,0.021294383476138188
+Canteen|Thunder|Regular,Canteen,Thunder,Regular,2025-06,7.503787507309296
+Canteen|1 Jar|Top Account,Canteen,1 Jar,Top Account,2025-06,0.011372635997392388
+Canteen|2 Jars|Top Account,Canteen,2 Jars,Top Account,2025-06,0.014523620812075732
+Canteen|3 Jars|Top Account,Canteen,3 Jars,Top Account,2025-06,0.011434452229456592
+Canteen|Blender|Top Account,Canteen,Blender,Top Account,2025-06,0.01572181067951282
+Canteen|CKM|Top Account,Canteen,CKM,Top Account,2025-06,0.010285899088674765
+Canteen|Combos|Top Account,Canteen,Combos,Top Account,2025-06,0.010930404303576039
+Canteen|FP|Top Account,Canteen,FP,Top Account,2025-06,0.009187391880131027
+Canteen|Gift Combos|Top Account,Canteen,Gift Combos,Top Account,2025-06,0.010930404303576039
+Canteen|NB Smart 2 Jar|Top Account,Canteen,NB Smart 2 Jar,Top Account,2025-06,0.007999143762710586
+Canteen|NB Smart 3 Jar|Top Account,Canteen,NB Smart 3 Jar,Top Account,2025-06,0.010059053059223165
+Canteen|NB Smart CKM|Top Account,Canteen,NB Smart CKM,Top Account,2025-06,0.007579068054033898
+Canteen|Personal Blender|Top Account,Canteen,Personal Blender,Top Account,2025-06,0.010930404303576039
+Canteen|Sipper Jar|Top Account,Canteen,Sipper Jar,Top Account,2025-06,0.01291053610286791
+Canteen|Storm|Top Account,Canteen,Storm,Top Account,2025-06,0.010930404303576039
+Canteen|Thunder|Top Account,Canteen,Thunder,Top Account,2025-06,0.010930404303576039
+DTH|1 Jar|Key Account,DTH,1 Jar,Key Account,2025-06,0.01794904697769142
+DTH|2 Jars|Key Account,DTH,2 Jars,Key Account,2025-06,0.025693145285104465
+DTH|3 Jars|Key Account,DTH,3 Jars,Key Account,2025-06,0.017993479766655125
+DTH|Blender|Key Account,DTH,Blender,Key Account,2025-06,0.025305631302577996
+DTH|CKM|Key Account,DTH,CKM,Key Account,2025-06,0.017464099938988384
+DTH|Combos|Key Account,DTH,Combos,Key Account,2025-06,0.018858104949270444
+DTH|FP|Key Account,DTH,FP,Key Account,2025-06,0.015216673944082253
+DTH|Gift Combos|Key Account,DTH,Gift Combos,Key Account,2025-06,0.018858104949270444
+DTH|NB Smart 2 Jar|Key Account,DTH,NB Smart 2 Jar,Key Account,2025-06,0.013629608443653763
+DTH|NB Smart 3 Jar|Key Account,DTH,NB Smart 3 Jar,Key Account,2025-06,0.017471486096746373
+DTH|NB Smart CKM|Key Account,DTH,NB Smart CKM,Key Account,2025-06,0.015888267236897118
+DTH|Personal Blender|Key Account,DTH,Personal Blender,Key Account,2025-06,0.018858104949270444
+DTH|Sipper Jar|Key Account,DTH,Sipper Jar,Key Account,2025-06,0.022536732334793055
+DTH|Storm|Key Account,DTH,Storm,Key Account,2025-06,0.018858104949270444
+DTH|Thunder|Key Account,DTH,Thunder,Key Account,2025-06,0.018858104949270444
+DTH|1 Jar|Regular,DTH,1 Jar,Regular,2025-06,17.28837617315288
+DTH|2 Jars|Regular,DTH,2 Jars,Regular,2025-06,113.14127971309179
+DTH|3 Jars|Regular,DTH,3 Jars,Regular,2025-06,9.498333134280195
+DTH|Blender|Regular,DTH,Blender,Regular,2025-06,0.023302890109773048
+DTH|CKM|Regular,DTH,CKM,Regular,2025-06,18.769411237935632
+DTH|Combos|Regular,DTH,Combos,Regular,2025-06,0.023115054011800525
+DTH|FP|Regular,DTH,FP,Regular,2025-06,0.017137604300977053
+DTH|Gift Combos|Regular,DTH,Gift Combos,Regular,2025-06,0.023115054011800525
+DTH|NB Smart 2 Jar|Regular,DTH,NB Smart 2 Jar,Regular,2025-06,8.945830097748406
+DTH|NB Smart 3 Jar|Regular,DTH,NB Smart 3 Jar,Regular,2025-06,3.634353795976404
+DTH|NB Smart CKM|Regular,DTH,NB Smart CKM,Regular,2025-06,4.446848186078216
+DTH|Personal Blender|Regular,DTH,Personal Blender,Regular,2025-06,0.023115054011800525
+DTH|Sipper Jar|Regular,DTH,Sipper Jar,Regular,2025-06,0.02762407922586019
+DTH|Storm|Regular,DTH,Storm,Regular,2025-06,0.023655677502317514
+DTH|Thunder|Regular,DTH,Thunder,Regular,2025-06,4.0599380373607685
+DTH|1 Jar|Top Account,DTH,1 Jar,Top Account,2025-06,0.012199411421316766
+DTH|2 Jars|Top Account,DTH,2 Jars,Top Account,2025-06,0.01554358543973372
+DTH|3 Jars|Top Account,DTH,3 Jars,Top Account,2025-06,0.0115045502671043
+DTH|Blender|Top Account,DTH,Blender,Top Account,2025-06,0.016818517996765422
+DTH|CKM|Top Account,DTH,CKM,Top Account,2025-06,0.011033670193054818
+DTH|Combos|Top Account,DTH,Combos,Top Account,2025-06,0.01172503007492984
+DTH|FP|Top Account,DTH,FP,Top Account,2025-06,0.009855302979914432
+DTH|Gift Combos|Top Account,DTH,Gift Combos,Top Account,2025-06,0.01172503007492984
+DTH|NB Smart 2 Jar|Top Account,DTH,NB Smart 2 Jar,Top Account,2025-06,0.008474211451322978
+DTH|NB Smart 3 Jar|Top Account,DTH,NB Smart 3 Jar,Top Account,2025-06,0.010862899559056415
+DTH|NB Smart CKM|Top Account,DTH,NB Smart CKM,Top Account,2025-06,0.009859710099094818
+DTH|Personal Blender|Top Account,DTH,Personal Blender,Top Account,2025-06,0.01172503007492984
+DTH|Sipper Jar|Top Account,DTH,Sipper Jar,Top Account,2025-06,0.013849114807223464
+DTH|Storm|Top Account,DTH,Storm,Top Account,2025-06,0.01172503007492984
+DTH|Thunder|Top Account,DTH,Thunder,Top Account,2025-06,0.01172503007492984
+EBO|1 Jar|Key Account,EBO,1 Jar,Key Account,2025-06,0.020029465104223824
+EBO|2 Jars|Key Account,EBO,2 Jars,Key Account,2025-06,0.028820576068155027
+EBO|3 Jars|Key Account,EBO,3 Jars,Key Account,2025-06,0.020103832268702715
+EBO|Blender|Key Account,EBO,Blender,Key Account,2025-06,0.028316378600666547
+EBO|CKM|Key Account,EBO,CKM,Key Account,2025-06,0.019693678777260786
+EBO|Combos|Key Account,EBO,Combos,Key Account,2025-06,0.021043889153706134
+EBO|FP|Key Account,EBO,FP,Key Account,2025-06,0.016980391223230657
+EBO|Gift Combos|Key Account,EBO,Gift Combos,Key Account,2025-06,0.021043889153706134
+EBO|NB Smart 2 Jar|Key Account,EBO,NB Smart 2 Jar,Key Account,2025-06,0.015483889136441489
+EBO|NB Smart 3 Jar|Key Account,EBO,NB Smart 3 Jar,Key Account,2025-06,0.019366309945212757
+EBO|NB Smart CKM|Key Account,EBO,NB Smart CKM,Key Account,2025-06,0.014522756796361124
+EBO|Personal Blender|Key Account,EBO,Personal Blender,Key Account,2025-06,0.021043889153706134
+EBO|Sipper Jar|Key Account,EBO,Sipper Jar,Key Account,2025-06,0.02514889478109928
+EBO|Storm|Key Account,EBO,Storm,Key Account,2025-06,0.021043889153706134
+EBO|Thunder|Key Account,EBO,Thunder,Key Account,2025-06,0.021043889153706134
+EBO|1 Jar|Regular,EBO,1 Jar,Regular,2025-06,58.60978748102353
+EBO|2 Jars|Regular,EBO,2 Jars,Regular,2025-06,173.53597332422603
+EBO|3 Jars|Regular,EBO,3 Jars,Regular,2025-06,76.01876341238273
+EBO|Blender|Regular,EBO,Blender,Regular,2025-06,0.026075360497757646
+EBO|CKM|Regular,EBO,CKM,Regular,2025-06,58.32184608856949
+EBO|Combos|Regular,EBO,Combos,Regular,2025-06,0.025794247922301384
+EBO|FP|Regular,EBO,FP,Regular,2025-06,7.309795773432957
+EBO|Gift Combos|Regular,EBO,Gift Combos,Regular,2025-06,0.025794247922301384
+EBO|NB Smart 2 Jar|Regular,EBO,NB Smart 2 Jar,Regular,2025-06,10.81111893783547
+EBO|NB Smart 3 Jar|Regular,EBO,NB Smart 3 Jar,Regular,2025-06,13.744362765968988
+EBO|NB Smart CKM|Regular,EBO,NB Smart CKM,Regular,2025-06,14.201266475031462
+EBO|Personal Blender|Regular,EBO,Personal Blender,Regular,2025-06,0.025794247922301384
+EBO|Sipper Jar|Regular,EBO,Sipper Jar,Regular,2025-06,0.030825900203969726
+EBO|Storm|Regular,EBO,Storm,Regular,2025-06,31.12353730647173
+EBO|Thunder|Regular,EBO,Thunder,Regular,2025-06,10.058909460498704
+EBO|1 Jar|Top Account,EBO,1 Jar,Top Account,2025-06,0.013613407199782131
+EBO|2 Jars|Top Account,EBO,2 Jars,Top Account,2025-06,0.017435587646695182
+EBO|3 Jars|Top Account,EBO,3 Jars,Top Account,2025-06,0.012853853278860083
+EBO|Blender|Top Account,EBO,Blender,Top Account,2025-06,0.01881950769787818
+EBO|CKM|Top Account,EBO,CKM,Top Account,2025-06,0.012442299189501996
+EBO|Combos|Top Account,EBO,Combos,Top Account,2025-06,0.013084041789163897
+EBO|FP|Top Account,EBO,FP,Top Account,2025-06,0.010997600450491255
+EBO|Gift Combos|Top Account,EBO,Gift Combos,Top Account,2025-06,0.013084041789163897
+EBO|NB Smart 2 Jar|Top Account,EBO,NB Smart 2 Jar,Top Account,2025-06,0.009627110798780394
+EBO|NB Smart 3 Jar|Top Account,EBO,NB Smart 3 Jar,Top Account,2025-06,0.012041006620700534
+EBO|NB Smart CKM|Top Account,EBO,NB Smart CKM,Top Account,2025-06,0.009012321464435806
+EBO|Personal Blender|Top Account,EBO,Personal Blender,Top Account,2025-06,0.013084041789163897
+EBO|Sipper Jar|Top Account,EBO,Sipper Jar,Top Account,2025-06,0.015454322566564923
+EBO|Storm|Top Account,EBO,Storm,Top Account,2025-06,0.013084041789163897
+EBO|Thunder|Top Account,EBO,Thunder,Top Account,2025-06,0.013084041789163897
+ECOM B2B|1 Jar|Key Account,ECOM B2B,1 Jar,Key Account,2025-06,2503.974655593948
+ECOM B2B|2 Jars|Key Account,ECOM B2B,2 Jars,Key Account,2025-06,2245.900170777058
+ECOM B2B|3 Jars|Key Account,ECOM B2B,3 Jars,Key Account,2025-06,421.95359259453346
+ECOM B2B|Blender|Key Account,ECOM B2B,Blender,Key Account,2025-06,0.033514763311653165
+ECOM B2B|CKM|Key Account,ECOM B2B,CKM,Key Account,2025-06,358.4105366708635
+ECOM B2B|Combos|Key Account,ECOM B2B,Combos,Key Account,2025-06,0.02461411408605736
+ECOM B2B|FP|Key Account,ECOM B2B,FP,Key Account,2025-06,33.863730784046304
+ECOM B2B|Gift Combos|Key Account,ECOM B2B,Gift Combos,Key Account,2025-06,0.02461411408605736
+ECOM B2B|NB Smart 2 Jar|Key Account,ECOM B2B,NB Smart 2 Jar,Key Account,2025-06,0.01746086731946417
+ECOM B2B|NB Smart 3 Jar|Key Account,ECOM B2B,NB Smart 3 Jar,Key Account,2025-06,0.022651923270250778
+ECOM B2B|NB Smart CKM|Key Account,ECOM B2B,NB Smart CKM,Key Account,2025-06,0.015456394434992131
+ECOM B2B|Personal Blender|Key Account,ECOM B2B,Personal Blender,Key Account,2025-06,0.02461411408605736
+ECOM B2B|Sipper Jar|Key Account,ECOM B2B,Sipper Jar,Key Account,2025-06,0.02941555910881673
+ECOM B2B|Storm|Key Account,ECOM B2B,Storm,Key Account,2025-06,0.02461411408605736
+ECOM B2B|Thunder|Key Account,ECOM B2B,Thunder,Key Account,2025-06,0.024140470363346007
+ECOM B2B|1 Jar|Regular,ECOM B2B,1 Jar,Regular,2025-06,1425.4175275749747
+ECOM B2B|2 Jars|Regular,ECOM B2B,2 Jars,Regular,2025-06,663.3521346041628
+ECOM B2B|3 Jars|Regular,ECOM B2B,3 Jars,Regular,2025-06,36.83891747871559
+ECOM B2B|Blender|Regular,ECOM B2B,Blender,Regular,2025-06,0.031618438836322454
+ECOM B2B|CKM|Regular,ECOM B2B,CKM,Regular,2025-06,50.92038428733461
+ECOM B2B|Combos|Regular,ECOM B2B,Combos,Regular,2025-06,0.030170400370682367
+ECOM B2B|FP|Regular,ECOM B2B,FP,Regular,2025-06,0.02466795013366116
+ECOM B2B|Gift Combos|Regular,ECOM B2B,Gift Combos,Regular,2025-06,0.030170400370682367
+ECOM B2B|NB Smart 2 Jar|Regular,ECOM B2B,NB Smart 2 Jar,Regular,2025-06,0.019871580478363394
+ECOM B2B|NB Smart 3 Jar|Regular,ECOM B2B,NB Smart 3 Jar,Regular,2025-06,0.0278714300851791
+ECOM B2B|NB Smart CKM|Regular,ECOM B2B,NB Smart CKM,Regular,2025-06,0.018493838423961604
+ECOM B2B|Personal Blender|Regular,ECOM B2B,Personal Blender,Regular,2025-06,0.030170400370682367
+ECOM B2B|Sipper Jar|Regular,ECOM B2B,Sipper Jar,Regular,2025-06,0.036055703339052336
+ECOM B2B|Storm|Regular,ECOM B2B,Storm,Regular,2025-06,22.477007775507285
+ECOM B2B|Thunder|Regular,ECOM B2B,Thunder,Regular,2025-06,0.028566158308358076
+ECOM B2B|1 Jar|Top Account,ECOM B2B,1 Jar,Top Account,2025-06,163.81507535641452
+ECOM B2B|2 Jars|Top Account,ECOM B2B,2 Jars,Top Account,2025-06,1453.6496104615428
+ECOM B2B|3 Jars|Top Account,ECOM B2B,3 Jars,Top Account,2025-06,21.694777658782794
+ECOM B2B|Blender|Top Account,ECOM B2B,Blender,Top Account,2025-06,0.022274435408254325
+ECOM B2B|CKM|Top Account,ECOM B2B,CKM,Top Account,2025-06,487.6860304355743
+ECOM B2B|Combos|Top Account,ECOM B2B,Combos,Top Account,2025-06,0.01530382976991231
+ECOM B2B|FP|Top Account,ECOM B2B,FP,Top Account,2025-06,0.012863410854528056
+ECOM B2B|Gift Combos|Top Account,ECOM B2B,Gift Combos,Top Account,2025-06,0.01530382976991231
+ECOM B2B|NB Smart 2 Jar|Top Account,ECOM B2B,NB Smart 2 Jar,Top Account,2025-06,10.876948736675796
+ECOM B2B|NB Smart 3 Jar|Top Account,ECOM B2B,NB Smart 3 Jar,Top Account,2025-06,0.013954453128854447
+ECOM B2B|NB Smart CKM|Top Account,ECOM B2B,NB Smart CKM,Top Account,2025-06,0.010135682216276247
+ECOM B2B|Personal Blender|Top Account,ECOM B2B,Personal Blender,Top Account,2025-06,0.01530382976991231
+ECOM B2B|Sipper Jar|Top Account,ECOM B2B,Sipper Jar,Top Account,2025-06,0.018076243226607527
+ECOM B2B|Storm|Top Account,ECOM B2B,Storm,Top Account,2025-06,0.01530382976991231
+ECOM B2B|Thunder|Top Account,ECOM B2B,Thunder,Top Account,2025-06,0.01530382976991231
+ECOM B2C|1 Jar|Key Account,ECOM B2C,1 Jar,Key Account,2025-06,0.013559300628888252
+ECOM B2C|2 Jars|Key Account,ECOM B2C,2 Jars,Key Account,2025-06,0.019510598669130106
+ECOM B2C|3 Jars|Key Account,ECOM B2C,3 Jars,Key Account,2025-06,0.014060505543267604
+ECOM B2C|Blender|Key Account,ECOM B2C,Blender,Key Account,2025-06,0.01914057741165911
+ECOM B2C|CKM|Key Account,ECOM B2C,CKM,Key Account,2025-06,0.013331984136377328
+ECOM B2C|Combos|Key Account,ECOM B2C,Combos,Key Account,2025-06,0.01424603292955286
+ECOM B2C|FP|Key Account,ECOM B2C,FP,Key Account,2025-06,0.01153368961455078
+ECOM B2C|Gift Combos|Key Account,ECOM B2C,Gift Combos,Key Account,2025-06,0.01424603292955286
+ECOM B2C|NB Smart 2 Jar|Key Account,ECOM B2C,NB Smart 2 Jar,Key Account,2025-06,0.010577095202633877
+ECOM B2C|NB Smart 3 Jar|Key Account,ECOM B2C,NB Smart 3 Jar,Key Account,2025-06,0.013498004107019946
+ECOM B2C|NB Smart CKM|Key Account,ECOM B2C,NB Smart CKM,Key Account,2025-06,0.01118215892712273
+ECOM B2C|Personal Blender|Key Account,ECOM B2C,Personal Blender,Key Account,2025-06,0.01424603292955286
+ECOM B2C|Sipper Jar|Key Account,ECOM B2C,Sipper Jar,Key Account,2025-06,0.0170249890871671
+ECOM B2C|Storm|Key Account,ECOM B2C,Storm,Key Account,2025-06,0.01424603292955286
+ECOM B2C|Thunder|Key Account,ECOM B2C,Thunder,Key Account,2025-06,0.01424603292955286
+ECOM B2C|1 Jar|Regular,ECOM B2C,1 Jar,Regular,2025-06,303.63816546508656
+ECOM B2C|2 Jars|Regular,ECOM B2C,2 Jars,Regular,2025-06,558.3619734562984
+ECOM B2C|3 Jars|Regular,ECOM B2C,3 Jars,Regular,2025-06,347.7514521213035
+ECOM B2C|Blender|Regular,ECOM B2C,Blender,Regular,2025-06,0.0176257516253332
+ECOM B2C|CKM|Regular,ECOM B2C,CKM,Regular,2025-06,75.02841001274864
+ECOM B2C|Combos|Regular,ECOM B2C,Combos,Regular,2025-06,0.017870277081151582
+ECOM B2C|FP|Regular,ECOM B2C,FP,Regular,2025-06,45.34896290250452
+ECOM B2C|Gift Combos|Regular,ECOM B2C,Gift Combos,Regular,2025-06,0.016206720520287172
+ECOM B2C|NB Smart 2 Jar|Regular,ECOM B2C,NB Smart 2 Jar,Regular,2025-06,7.312423973590055
+ECOM B2C|NB Smart 3 Jar|Regular,ECOM B2C,NB Smart 3 Jar,Regular,2025-06,6.9797170489014215
+ECOM B2C|NB Smart CKM|Regular,ECOM B2C,NB Smart CKM,Regular,2025-06,6.604583623162781
+ECOM B2C|Personal Blender|Regular,ECOM B2C,Personal Blender,Regular,2025-06,0.01746187230935119
+ECOM B2C|Sipper Jar|Regular,ECOM B2C,Sipper Jar,Regular,2025-06,0.02086813830757722
+ECOM B2C|Storm|Regular,ECOM B2C,Storm,Regular,2025-06,3.2728305253973535
+ECOM B2C|Thunder|Regular,ECOM B2C,Thunder,Regular,2025-06,2.7334231676988323
+ECOM B2C|1 Jar|Top Account,ECOM B2C,1 Jar,Top Account,2025-06,0.009317291197524185
+ECOM B2C|2 Jars|Top Account,ECOM B2C,2 Jars,Top Account,2025-06,0.011933268793047956
+ECOM B2C|3 Jars|Top Account,ECOM B2C,3 Jars,Top Account,2025-06,0.009152200078373453
+ECOM B2C|Blender|Top Account,ECOM B2C,Blender,Top Account,2025-06,0.012861169988470332
+ECOM B2C|CKM|Top Account,ECOM B2C,CKM,Top Account,2025-06,0.008515761191449896
+ECOM B2C|Combos|Top Account,ECOM B2C,Combos,Top Account,2025-06,0.00895498280490474
+ECOM B2C|FP|Top Account,ECOM B2C,FP,Top Account,2025-06,0.007552198574900122
+ECOM B2C|Gift Combos|Top Account,ECOM B2C,Gift Combos,Top Account,2025-06,0.00895498280490474
+ECOM B2C|NB Smart 2 Jar|Top Account,ECOM B2C,NB Smart 2 Jar,Top Account,2025-06,0.006648707477640216
+ECOM B2C|NB Smart 3 Jar|Top Account,ECOM B2C,NB Smart 3 Jar,Top Account,2025-06,0.008484775746105976
+ECOM B2C|NB Smart CKM|Top Account,ECOM B2C,NB Smart CKM,Top Account,2025-06,0.007029047413358703
+ECOM B2C|Personal Blender|Top Account,ECOM B2C,Personal Blender,Top Account,2025-06,0.00895498280490474
+ECOM B2C|Sipper Jar|Top Account,ECOM B2C,Sipper Jar,Top Account,2025-06,0.010577250904201196
+ECOM B2C|Storm|Top Account,ECOM B2C,Storm,Top Account,2025-06,0.00895498280490474
+ECOM B2C|Thunder|Top Account,ECOM B2C,Thunder,Top Account,2025-06,0.00895498280490474
+Export|1 Jar|Key Account,Export,1 Jar,Key Account,2025-06,0.014241047034424897
+Export|2 Jars|Key Account,Export,2 Jars,Key Account,2025-06,0.01841808905027542
+Export|3 Jars|Key Account,Export,3 Jars,Key Account,2025-06,0.020850015822367257
+Export|Blender|Key Account,Export,Blender,Key Account,2025-06,0.016105277808648222
+Export|CKM|Key Account,Export,CKM,Key Account,2025-06,0.014127810823503761
+Export|Combos|Key Account,Export,Combos,Key Account,2025-06,0.014609343218711199
+Export|FP|Key Account,Export,FP,Key Account,2025-06,0.011801805140720741
+Export|Gift Combos|Key Account,Export,Gift Combos,Key Account,2025-06,0.014609343218711199
+Export|NB Smart 2 Jar|Key Account,Export,NB Smart 2 Jar,Key Account,2025-06,0.011148053694238392
+Export|NB Smart 3 Jar|Key Account,Export,NB Smart 3 Jar,Key Account,2025-06,0.014010928979048777
+Export|NB Smart CKM|Key Account,Export,NB Smart CKM,Key Account,2025-06,0.011204350242747208
+Export|Personal Blender|Key Account,Export,Personal Blender,Key Account,2025-06,0.014609343218711199
+Export|Sipper Jar|Key Account,Export,Sipper Jar,Key Account,2025-06,0.015991133036155073
+Export|Storm|Key Account,Export,Storm,Key Account,2025-06,0.014609343218711199
+Export|Thunder|Key Account,Export,Thunder,Key Account,2025-06,0.03219920144850373
+Export|1 Jar|Regular,Export,1 Jar,Regular,2025-06,0.01579124017477503
+Export|2 Jars|Regular,Export,2 Jars,Regular,2025-06,25.356264350687784
+Export|3 Jars|Regular,Export,3 Jars,Regular,2025-06,17.166529551407027
+Export|Blender|Regular,Export,Blender,Regular,2025-06,0.016186532095736273
+Export|CKM|Regular,Export,CKM,Regular,2025-06,21.89713023599904
+Export|Combos|Regular,Export,Combos,Regular,2025-06,0.016056058364184198
+Export|FP|Regular,Export,FP,Regular,2025-06,0.012970499036496561
+Export|Gift Combos|Regular,Export,Gift Combos,Regular,2025-06,0.016056058364184198
+Export|NB Smart 2 Jar|Regular,Export,NB Smart 2 Jar,Regular,2025-06,55.12420541236364
+Export|NB Smart 3 Jar|Regular,Export,NB Smart 3 Jar,Regular,2025-06,0.019429530037689442
+Export|NB Smart CKM|Regular,Export,NB Smart CKM,Regular,2025-06,0.01221644223172371
+Export|Personal Blender|Regular,Export,Personal Blender,Regular,2025-06,0.016056058364184198
+Export|Sipper Jar|Regular,Export,Sipper Jar,Regular,2025-06,0.01757468227655134
+Export|Storm|Regular,Export,Storm,Regular,2025-06,24.434019783843535
+Export|Thunder|Regular,Export,Thunder,Regular,2025-06,18.8959777909691
+Export|1 Jar|Top Account,Export,1 Jar,Top Account,2025-06,0.009685616707847736
+Export|2 Jars|Top Account,Export,2 Jars,Top Account,2025-06,0.01118085279313455
+Export|3 Jars|Top Account,Export,3 Jars,Top Account,2025-06,0.013316269898694801
+Export|Blender|Top Account,Export,Blender,Top Account,2025-06,0.010740764583081252
+Export|CKM|Top Account,Export,CKM,Top Account,2025-06,0.00895663941598253
+Export|Combos|Top Account,Export,Combos,Top Account,2025-06,0.009114713837282424
+Export|FP|Top Account,Export,FP,Top Account,2025-06,0.007669995589949193
+Export|Gift Combos|Top Account,Export,Gift Combos,Top Account,2025-06,0.009114713837282424
+Export|NB Smart 2 Jar|Top Account,Export,NB Smart 2 Jar,Top Account,2025-06,0.006955228427757207
+Export|NB Smart 3 Jar|Top Account,Export,NB Smart 3 Jar,Top Account,2025-06,0.008741365462271826
+Export|NB Smart CKM|Top Account,Export,NB Smart CKM,Top Account,2025-06,0.006977032003886991
+Export|Personal Blender|Top Account,Export,Personal Blender,Top Account,2025-06,0.009114713837282424
+Export|Sipper Jar|Top Account,Export,Sipper Jar,Top Account,2025-06,0.00986067702642989
+Export|Storm|Top Account,Export,Storm,Top Account,2025-06,0.009114713837282424
+Export|Thunder|Top Account,Export,Thunder,Top Account,2025-06,0.020088959688224172
+GT|1 Jar|Key Account,GT,1 Jar,Key Account,2025-06,283.4650841616209
+GT|2 Jars|Key Account,GT,2 Jars,Key Account,2025-06,1344.0618309514014
+GT|3 Jars|Key Account,GT,3 Jars,Key Account,2025-06,169.78321038678433
+GT|Blender|Key Account,GT,Blender,Key Account,2025-06,0.04084770344112776
+GT|CKM|Key Account,GT,CKM,Key Account,2025-06,159.7773551310661
+GT|Combos|Key Account,GT,Combos,Key Account,2025-06,0.0291162624141208
+GT|FP|Key Account,GT,FP,Key Account,2025-06,0.023082609068112367
+GT|Gift Combos|Key Account,GT,Gift Combos,Key Account,2025-06,0.0291162624141208
+GT|NB Smart 2 Jar|Key Account,GT,NB Smart 2 Jar,Key Account,2025-06,0.01940858820747023
+GT|NB Smart 3 Jar|Key Account,GT,NB Smart 3 Jar,Key Account,2025-06,0.026897616943972358
+GT|NB Smart CKM|Key Account,GT,NB Smart CKM,Key Account,2025-06,0.021201597933965158
+GT|Personal Blender|Key Account,GT,Personal Blender,Key Account,2025-06,0.0291162624141208
+GT|Sipper Jar|Key Account,GT,Sipper Jar,Key Account,2025-06,0.034795935985180826
+GT|Storm|Key Account,GT,Storm,Key Account,2025-06,23.410904578532456
+GT|Thunder|Key Account,GT,Thunder,Key Account,2025-06,0.0285559848890777
+GT|1 Jar|Regular,GT,1 Jar,Regular,2025-06,1891.5678101777337
+GT|2 Jars|Regular,GT,2 Jars,Regular,2025-06,2971.6689601522244
+GT|3 Jars|Regular,GT,3 Jars,Regular,2025-06,784.9289571220685
+GT|Blender|Regular,GT,Blender,Regular,2025-06,0.03693134549269397
+GT|CKM|Regular,GT,CKM,Regular,2025-06,631.2963638768275
+GT|Combos|Regular,GT,Combos,Regular,2025-06,0.03529513758850769
+GT|FP|Regular,GT,FP,Regular,2025-06,11.308525848167704
+GT|Gift Combos|Regular,GT,Gift Combos,Regular,2025-06,0.03529513758850769
+GT|NB Smart 2 Jar|Regular,GT,NB Smart 2 Jar,Regular,2025-06,25.75235640491636
+GT|NB Smart 3 Jar|Regular,GT,NB Smart 3 Jar,Regular,2025-06,30.784153464999406
+GT|NB Smart CKM|Regular,GT,NB Smart CKM,Regular,2025-06,13.749667249739074
+GT|Personal Blender|Regular,GT,Personal Blender,Regular,2025-06,0.03529513758850769
+GT|Sipper Jar|Regular,GT,Sipper Jar,Regular,2025-06,0.04218011675572226
+GT|Storm|Regular,GT,Storm,Regular,2025-06,52.907212239404586
+GT|Thunder|Regular,GT,Thunder,Regular,2025-06,44.612538178424515
+GT|1 Jar|Top Account,GT,1 Jar,Top Account,2025-06,0.016141522487567637
+GT|2 Jars|Top Account,GT,2 Jars,Top Account,2025-06,0.021188878343095394
+GT|3 Jars|Top Account,GT,3 Jars,Top Account,2025-06,0.015672746471785518
+GT|Blender|Top Account,GT,Blender,Top Account,2025-06,0.023037065220740588
+GT|CKM|Top Account,GT,CKM,Top Account,2025-06,0.01475859437150221
+GT|Combos|Top Account,GT,Combos,Top Account,2025-06,0.015900592244111666
+GT|FP|Top Account,GT,FP,Top Account,2025-06,0.01330995031178123
+GT|Gift Combos|Top Account,GT,Gift Combos,Top Account,2025-06,0.015900592244111666
+GT|NB Smart 2 Jar|Top Account,GT,NB Smart 2 Jar,Top Account,2025-06,0.011420031101067216
+GT|NB Smart 3 Jar|Top Account,GT,NB Smart 3 Jar,Top Account,2025-06,0.014688974610868781
+GT|NB Smart CKM|Top Account,GT,NB Smart CKM,Top Account,2025-06,0.011556277524269168
+GT|Personal Blender|Top Account,GT,Personal Blender,Top Account,2025-06,0.015900592244111666
+GT|Sipper Jar|Top Account,GT,Sipper Jar,Top Account,2025-06,0.018781114085361265
+GT|Storm|Top Account,GT,Storm,Top Account,2025-06,0.015900592244111666
+GT|Thunder|Top Account,GT,Thunder,Top Account,2025-06,0.015900592244111666
+MT|1 Jar|Key Account,MT,1 Jar,Key Account,2025-06,702.4345938078576
+MT|2 Jars|Key Account,MT,2 Jars,Key Account,2025-06,1266.9293790248819
+MT|3 Jars|Key Account,MT,3 Jars,Key Account,2025-06,423.27674478082736
+MT|Blender|Key Account,MT,Blender,Key Account,2025-06,0.024870927584576652
+MT|CKM|Key Account,MT,CKM,Key Account,2025-06,508.52343723272764
+MT|Combos|Key Account,MT,Combos,Key Account,2025-06,0.01811345123686224
+MT|FP|Key Account,MT,FP,Key Account,2025-06,0.015224997190657645
+MT|Gift Combos|Key Account,MT,Gift Combos,Key Account,2025-06,0.01811345123686224
+MT|NB Smart 2 Jar|Key Account,MT,NB Smart 2 Jar,Key Account,2025-06,72.56987261883063
+MT|NB Smart 3 Jar|Key Account,MT,NB Smart 3 Jar,Key Account,2025-06,0.017137177063327135
+MT|NB Smart CKM|Key Account,MT,NB Smart CKM,Key Account,2025-06,0.01383415766085794
+MT|Personal Blender|Key Account,MT,Personal Blender,Key Account,2025-06,0.01811345123686224
+MT|Sipper Jar|Key Account,MT,Sipper Jar,Key Account,2025-06,0.021394850514773616
+MT|Storm|Key Account,MT,Storm,Key Account,2025-06,0.01811345123686224
+MT|Thunder|Key Account,MT,Thunder,Key Account,2025-06,0.01811345123686224
+MT|1 Jar|Regular,MT,1 Jar,Regular,2025-06,100.37309723144482
+MT|2 Jars|Regular,MT,2 Jars,Regular,2025-06,476.1565243353778
+MT|3 Jars|Regular,MT,3 Jars,Regular,2025-06,18.911621952225673
+MT|Blender|Regular,MT,Blender,Regular,2025-06,0.02851223659651668
+MT|CKM|Regular,MT,CKM,Regular,2025-06,247.5496555874709
+MT|Combos|Regular,MT,Combos,Regular,2025-06,0.027640427941312527
+MT|FP|Regular,MT,FP,Regular,2025-06,2.7444548155762942
+MT|Gift Combos|Regular,MT,Gift Combos,Regular,2025-06,0.027640427941312527
+MT|NB Smart 2 Jar|Regular,MT,NB Smart 2 Jar,Regular,2025-06,26.992118566984377
+MT|NB Smart 3 Jar|Regular,MT,NB Smart 3 Jar,Regular,2025-06,0.025879715511476963
+MT|NB Smart CKM|Regular,MT,NB Smart CKM,Regular,2025-06,73.95772636203759
+MT|Personal Blender|Regular,MT,Personal Blender,Regular,2025-06,0.027640427941312527
+MT|Sipper Jar|Regular,MT,Sipper Jar,Regular,2025-06,0.03264771667396467
+MT|Storm|Regular,MT,Storm,Regular,2025-06,65.65786826065967
+MT|Thunder|Regular,MT,Thunder,Regular,2025-06,9.740352077219947
+MT|1 Jar|Top Account,MT,1 Jar,Top Account,2025-06,0.025021259963577173
+MT|2 Jars|Top Account,MT,2 Jars,Top Account,2025-06,665.8596864721867
+MT|3 Jars|Top Account,MT,3 Jars,Top Account,2025-06,0.015365038143624913
+MT|Blender|Top Account,MT,Blender,Top Account,2025-06,0.02282590037827197
+MT|CKM|Top Account,MT,CKM,Top Account,2025-06,0.014722065652870424
+MT|Combos|Top Account,MT,Combos,Top Account,2025-06,0.015644537087364775
+MT|FP|Top Account,MT,FP,Top Account,2025-06,0.013149787419834054
+MT|Gift Combos|Top Account,MT,Gift Combos,Top Account,2025-06,0.015644537087364775
+MT|NB Smart 2 Jar|Top Account,MT,NB Smart 2 Jar,Top Account,2025-06,0.01130701708133463
+MT|NB Smart 3 Jar|Top Account,MT,NB Smart 3 Jar,Top Account,2025-06,0.014592178901713338
+MT|NB Smart CKM|Top Account,MT,NB Smart CKM,Top Account,2025-06,0.011016022803777472
+MT|Personal Blender|Top Account,MT,Personal Blender,Top Account,2025-06,0.015644537087364775
+MT|Sipper Jar|Top Account,MT,Sipper Jar,Top Account,2025-06,0.018478672450661208
+MT|Storm|Top Account,MT,Storm,Top Account,2025-06,0.015644537087364775
+MT|Thunder|Top Account,MT,Thunder,Top Account,2025-06,0.015644537087364775
+Others|1 Jar|Key Account,Others,1 Jar,Key Account,2025-06,0.029497007109832336
+Others|2 Jars|Key Account,Others,2 Jars,Key Account,2025-06,0.03395080171851796
+Others|3 Jars|Key Account,Others,3 Jars,Key Account,2025-06,0.024112594372433713
+Others|Blender|Key Account,Others,Blender,Key Account,2025-06,0.03400466758564774
+Others|CKM|Key Account,Others,CKM,Key Account,2025-06,0.02340318623020586
+Others|Combos|Key Account,Others,Combos,Key Account,2025-06,0.02527125609784546
+Others|FP|Key Account,Others,FP,Key Account,2025-06,0.02182313053449624
+Others|Gift Combos|Key Account,Others,Gift Combos,Key Account,2025-06,0.02527125609784546
+Others|NB Smart 2 Jar|Key Account,Others,NB Smart 2 Jar,Key Account,2025-06,0.01826468388098862
+Others|NB Smart 3 Jar|Key Account,Others,NB Smart 3 Jar,Key Account,2025-06,0.023256679158544732
+Others|NB Smart CKM|Key Account,Others,NB Smart CKM,Key Account,2025-06,0.016988289492909595
+Others|Personal Blender|Key Account,Others,Personal Blender,Key Account,2025-06,0.02527125609784546
+Others|Sipper Jar|Key Account,Others,Sipper Jar,Key Account,2025-06,0.030200889006251036
+Others|Storm|Key Account,Others,Storm,Key Account,2025-06,0.02527125609784546
+Others|Thunder|Key Account,Others,Thunder,Key Account,2025-06,0.02527125609784546
+Others|1 Jar|Regular,Others,1 Jar,Regular,2025-06,0.03941754686776017
+Others|2 Jars|Regular,Others,2 Jars,Regular,2025-06,32.669667832007235
+Others|3 Jars|Regular,Others,3 Jars,Regular,2025-06,0.02957502143458102
+Others|Blender|Regular,Others,Blender,Regular,2025-06,0.031313466259463955
+Others|CKM|Regular,Others,CKM,Regular,2025-06,3.3324696539623706
+Others|Combos|Regular,Others,Combos,Regular,2025-06,0.030975882848204208
+Others|FP|Regular,Others,FP,Regular,2025-06,0.027104675766500882
+Others|Gift Combos|Regular,Others,Gift Combos,Regular,2025-06,0.030975882848204208
+Others|NB Smart 2 Jar|Regular,Others,NB Smart 2 Jar,Regular,2025-06,0.022396204419964077
+Others|NB Smart 3 Jar|Regular,Others,NB Smart 3 Jar,Regular,2025-06,0.02861553517762932
+Others|NB Smart CKM|Regular,Others,NB Smart CKM,Regular,2025-06,0.02032677687560028
+Others|Personal Blender|Regular,Others,Personal Blender,Regular,2025-06,0.030975882848204208
+Others|Sipper Jar|Regular,Others,Sipper Jar,Regular,2025-06,0.03701831029479409
+Others|Storm|Regular,Others,Storm,Regular,2025-06,0.030975882848204208
+Others|Thunder|Regular,Others,Thunder,Regular,2025-06,9.35097564562592
+Others|1 Jar|Top Account,Others,1 Jar,Top Account,2025-06,0.01634811403905155
+Others|2 Jars|Top Account,Others,2 Jars,Top Account,2025-06,0.02053922092462479
+Others|3 Jars|Top Account,Others,3 Jars,Top Account,2025-06,0.01541694867393219
+Others|Blender|Top Account,Others,Blender,Top Account,2025-06,0.02260003344413619
+Others|CKM|Top Account,Others,CKM,Top Account,2025-06,0.014785934530427912
+Others|Combos|Top Account,Others,Combos,Top Account,2025-06,0.0157124079315273
+Others|FP|Top Account,Others,FP,Top Account,2025-06,0.014134071885750327
+Others|Gift Combos|Top Account,Others,Gift Combos,Top Account,2025-06,0.0157124079315273
+Others|NB Smart 2 Jar|Top Account,Others,NB Smart 2 Jar,Top Account,2025-06,0.011356070421167225
+Others|NB Smart 3 Jar|Top Account,Others,NB Smart 3 Jar,Top Account,2025-06,0.01445984436455687
+Others|NB Smart CKM|Top Account,Others,NB Smart CKM,Top Account,2025-06,0.010542345932513358
+Others|Personal Blender|Top Account,Others,Personal Blender,Top Account,2025-06,0.0157124079315273
+Others|Sipper Jar|Top Account,Others,Sipper Jar,Top Account,2025-06,0.018558838651247755
+Others|Storm|Top Account,Others,Storm,Top Account,2025-06,0.0157124079315273
+Others|Thunder|Top Account,Others,Thunder,Top Account,2025-06,0.0157124079315273
+Website|1 Jar|Key Account,Website,1 Jar,Key Account,2025-06,0.014402479823362615
+Website|2 Jars|Key Account,Website,2 Jars,Key Account,2025-06,0.019438806050342813
+Website|3 Jars|Key Account,Website,3 Jars,Key Account,2025-06,0.01469912779235487
+Website|Blender|Key Account,Website,Blender,Key Account,2025-06,0.020607958990148095
+Website|CKM|Key Account,Website,CKM,Key Account,2025-06,0.01416102775392987
+Website|Combos|Key Account,Website,Combos,Key Account,2025-06,0.015131916272562792
+Website|FP|Key Account,Website,FP,Key Account,2025-06,0.012512949067171535
+Website|Gift Combos|Key Account,Website,Gift Combos,Key Account,2025-06,0.015131916272562792
+Website|NB Smart 2 Jar|Key Account,Website,NB Smart 2 Jar,Key Account,2025-06,0.012197473993597977
+Website|NB Smart 3 Jar|Key Account,Website,NB Smart 3 Jar,Key Account,2025-06,0.013925628407325464
+Website|NB Smart CKM|Key Account,Website,NB Smart CKM,Key Account,2025-06,0.011643459122551957
+Website|Personal Blender|Key Account,Website,Personal Blender,Key Account,2025-06,0.015131916272562792
+Website|Sipper Jar|Key Account,Website,Sipper Jar,Key Account,2025-06,0.018083680606541565
+Website|Storm|Key Account,Website,Storm,Key Account,2025-06,0.015131916272562792
+Website|Thunder|Key Account,Website,Thunder,Key Account,2025-06,0.015131916272562792
+Website|1 Jar|Regular,Website,1 Jar,Regular,2025-06,44.17743163206579
+Website|2 Jars|Regular,Website,2 Jars,Regular,2025-06,193.10021386427002
+Website|3 Jars|Regular,Website,3 Jars,Regular,2025-06,57.75835336589413
+Website|Blender|Regular,Website,Blender,Regular,2025-06,0.01897700152160235
+Website|CKM|Regular,Website,CKM,Regular,2025-06,65.59906327532964
+Website|Combos|Regular,Website,Combos,Regular,2025-06,0.01854773122131046
+Website|FP|Regular,Website,FP,Regular,2025-06,38.703785531927
+Website|Gift Combos|Regular,Website,Gift Combos,Regular,2025-06,0.01854773122131046
+Website|NB Smart 2 Jar|Regular,Website,NB Smart 2 Jar,Regular,2025-06,11.182010734363978
+Website|NB Smart 3 Jar|Regular,Website,NB Smart 3 Jar,Regular,2025-06,3.7045257311982183
+Website|NB Smart CKM|Regular,Website,NB Smart CKM,Regular,2025-06,11.401214238002327
+Website|Personal Blender|Regular,Website,Personal Blender,Regular,2025-06,0.01854773122131046
+Website|Sipper Jar|Regular,Website,Sipper Jar,Regular,2025-06,0.022165814384680755
+Website|Storm|Regular,Website,Storm,Regular,2025-06,6.822662276747029
+Website|Thunder|Regular,Website,Thunder,Regular,2025-06,3.657133620048823
+Website|1 Jar|Top Account,Website,1 Jar,Top Account,2025-06,0.009896682886050806
+Website|2 Jars|Top Account,Website,2 Jars,Top Account,2025-06,0.011889358268728606
+Website|3 Jars|Top Account,Website,3 Jars,Top Account,2025-06,0.009501691969507682
+Website|Blender|Top Account,Website,Blender,Top Account,2025-06,0.013847150897666992
+Website|CKM|Top Account,Website,CKM,Top Account,2025-06,0.00904531008620964
+Website|Combos|Top Account,Website,Combos,Top Account,2025-06,0.009511844504090369
+Website|FP|Top Account,Website,FP,Top Account,2025-06,0.00819341245265262
+Website|Gift Combos|Top Account,Website,Gift Combos,Top Account,2025-06,0.009511844504090369
+Website|NB Smart 2 Jar|Top Account,Website,NB Smart 2 Jar,Top Account,2025-06,0.007667269226182468
+Website|NB Smart 3 Jar|Top Account,Website,NB Smart 3 Jar,Top Account,2025-06,0.008753578175184436
+Website|NB Smart CKM|Top Account,Website,NB Smart CKM,Top Account,2025-06,0.007305072457902355
+Website|Personal Blender|Top Account,Website,Personal Blender,Top Account,2025-06,0.009511844504090369
+Website|Sipper Jar|Top Account,Website,Sipper Jar,Top Account,2025-06,0.011234992637440488
+Website|Storm|Top Account,Website,Storm,Top Account,2025-06,0.009511844504090369
+Website|Thunder|Top Account,Website,Thunder,Top Account,2025-06,0.009511844504090369
