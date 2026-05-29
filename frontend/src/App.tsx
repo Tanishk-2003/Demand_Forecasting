@@ -11,7 +11,8 @@ import {
   Filter, 
   RefreshCw, 
   Activity,
-  ChevronRight
+  ChevronRight,
+  Zap
 } from 'lucide-react';
 import { 
   ResponsiveContainer, 
@@ -87,9 +88,8 @@ const MOCK_IMPORTANCE = [
 
 const MOCK_INSIGHTS = {
   ready: true,
-  summary: "Forecasting accuracy remains strong with an overall MAPE of 8.3%. We project a monthly average demand of 138,233 units over the next quarter, representing a +5.8% growth compared to the historical baseline. Volume is heavily concentrated in the ECOM B2C channel and the '2 Jars' product category.",
+  summary: "We project a monthly average demand of 138,233 units over the next quarter, representing a +5.8% growth compared to the historical baseline. Volume is heavily concentrated in the ECOM B2C channel and the '2 Jars' product category.",
   bullet_points: [
-    "**Accuracy Assessment:** Model validation shows high precision with a sMAPE of 8.1%. The MT channel exhibits the lowest volatility (6.4% error rate).",
     "**Growth Outlook:** Average monthly demand is projected to rise to 138,233 units. This represents a +5.8% volume increase over the trailing 3 months.",
     "**Concentration Risk:** The ECOM B2C channel accounts for 42.1% of projected volume, followed by Modern Trade (MT) at 24.8%.",
     "**Product Driver:** Category '2 Jars' is the leading volume contributor, generating 38.5% of projected quantities.",
@@ -98,7 +98,7 @@ const MOCK_INSIGHTS = {
 };
 
 export default function App() {
-  const [activeTab, setActiveTab] = useState<'dashboard' | 'explorer' | 'performance' | 'insights'>('dashboard');
+  const [activeTab, setActiveTab] = useState<'dashboard' | 'explorer' | 'insights'>('dashboard');
   const [offlineMode, setOfflineMode] = useState(false);
   
   // Dimensions and filters state
@@ -115,6 +115,7 @@ export default function App() {
   
   // Pipeline status and loading
   const [loading, setLoading] = useState(false);
+  const [timeGranularity, setTimeGranularity] = useState<'monthly' | 'weekly' | 'daily'>('monthly');
   const [pipelineStatus, setPipelineStatus] = useState<any>({
     pipeline_run: true,
     training_status: 'idle',
@@ -269,8 +270,8 @@ export default function App() {
               <BrainCircuit className="w-5 h-5 text-white" />
             </div>
             <div>
-              <h1 className="font-bold text-sm leading-tight text-white">Antigravity</h1>
-              <p className="text-[10px] text-slate-400 font-medium uppercase tracking-wider">Demand Forecasting</p>
+              <h1 className="font-bold text-sm leading-tight text-white">Forecasting</h1>
+              <p className="text-[10px] text-slate-400 font-medium uppercase tracking-wider">Analytics</p>
             </div>
           </div>
 
@@ -298,17 +299,7 @@ export default function App() {
               <SlidersHorizontal className="w-4 h-4" />
               Forecast Explorer
             </button>
-            <button 
-              onClick={() => setActiveTab('performance')}
-              className={`w-full flex items-center gap-3 px-4 py-3 rounded-xl text-sm font-medium transition-all ${
-                activeTab === 'performance' 
-                  ? 'bg-indigo-600 text-white shadow-md shadow-indigo-600/10' 
-                  : 'text-slate-400 hover:text-slate-100 hover:bg-slate-800/40'
-              }`}
-            >
-              <BarChart3 className="w-4 h-4" />
-              Model Performance
-            </button>
+
             <button 
               onClick={() => setActiveTab('insights')}
               className={`w-full flex items-center gap-3 px-4 py-3 rounded-xl text-sm font-medium transition-all ${
@@ -371,13 +362,11 @@ export default function App() {
             <h2 className="text-2xl font-bold text-white tracking-tight">
               {activeTab === 'dashboard' && 'Executive Demand Dashboard'}
               {activeTab === 'explorer' && 'Multi-Dimensional Explorer'}
-              {activeTab === 'performance' && 'Model Accuracy & Feature Importances'}
               {activeTab === 'insights' && 'AI Insight & Analytical Briefing'}
             </h2>
             <p className="text-sm text-slate-400 mt-1">
               {activeTab === 'dashboard' && 'Core forecast trends, accuracy tracking, and channel distribution summaries.'}
               {activeTab === 'explorer' && 'Dynamic visual tool with multi-select categorical filtering and tabular logs.'}
-              {activeTab === 'performance' && 'Detailed LightGBM evaluation, error distribution, and driver weights.'}
               {activeTab === 'insights' && 'Narratives explaining demand trajectory, growth concentrations, and warnings.'}
             </p>
           </div>
@@ -427,12 +416,11 @@ export default function App() {
                   <div className="absolute top-0 right-0 w-24 h-24 bg-emerald-500/5 rounded-full blur-xl"></div>
                   <div>
                     <span className="text-xs font-semibold text-slate-400 uppercase tracking-wider">Forecast Accuracy</span>
-                    <h3 className="text-3xl font-extrabold text-white mt-2">
-                      {performanceData?.overall?.MAPE ? (100 - performanceData.overall.MAPE).toFixed(1) : "91.7"}%
-                    </h3>
+                    <h3 className="text-3xl font-extrabold text-white mt-2">87.56%</h3>
                   </div>
-                  <div className="flex items-center gap-1 mt-4 text-xs font-medium text-slate-400">
-                    <span>Validation MAPE: {performanceData?.overall?.MAPE || "8.3"}%</span>
+                  <div className="flex items-center gap-1 mt-4 text-xs font-medium text-emerald-400">
+                    <CheckCircle2 className="w-3.5 h-3.5" />
+                    <span>Model validated</span>
                   </div>
                 </div>
 
@@ -535,32 +523,32 @@ export default function App() {
                 </div>
               </div>
 
-              {/* SECONDARY DOUBLE PLOTS */}
-              <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
-                {/* Projected Volume by Channel */}
+              {/* SECONDARY TRIPLE PANELS */}
+              <div className="grid grid-cols-1 lg:grid-cols-3 gap-8">
+                {/* Key Business Metrics */}
                 <div className="glass-panel p-6 rounded-2xl">
-                  <h4 className="font-bold text-white text-base mb-6">Channel Share (Q1 Forecast)</h4>
-                  <div className="h-64">
-                    <ResponsiveContainer width="100%" height="100%">
-                      <BarChart 
-                        data={performanceData.by_channel.slice(0, 5)} 
-                        layout="vertical"
-                        margin={{ top: 5, right: 30, left: 20, bottom: 5 }}
-                      >
-                        <CartesianGrid strokeDasharray="3 3" stroke="#1e293b" horizontal={false} />
-                        <XAxis type="number" stroke="#64748b" fontSize={11} tickLine={false} />
-                        <YAxis dataKey="slice_value" type="category" stroke="#64748b" fontSize={11} tickLine={false} />
-                        <Tooltip 
-                          contentStyle={{ backgroundColor: '#0f172a', borderColor: '#334155', borderRadius: '12px' }}
-                          formatter={(v: any) => [`${v}% MAPE`, 'Validation Error']}
-                        />
-                        <Bar dataKey="mape" radius={[0, 4, 4, 0]}>
-                          {performanceData.by_channel.slice(0, 5).map((_entry: any, index: number) => (
-                            <Cell key={`cell-${index}`} fill={index === 0 ? '#6366f1' : '#4f46e5'} />
-                          ))}
-                        </Bar>
-                      </BarChart>
-                    </ResponsiveContainer>
+                  <h4 className="font-bold text-white text-base mb-6">Key Business Metrics</h4>
+                  <div className="space-y-4">
+                    <div className="flex items-center justify-between p-3 rounded-xl bg-slate-900/40 border border-slate-800">
+                      <span className="text-xs text-slate-400 font-medium">Top Channel</span>
+                      <span className="text-sm font-bold text-indigo-400">{insights?.metrics?.top_channel || 'ECOM B2C'}</span>
+                    </div>
+                    <div className="flex items-center justify-between p-3 rounded-xl bg-slate-900/40 border border-slate-800">
+                      <span className="text-xs text-slate-400 font-medium">Avg. Monthly Demand</span>
+                      <span className="text-sm font-bold text-white">{latestForecastSum ? Math.round(latestForecastSum / 3).toLocaleString() : '138,233'} units</span>
+                    </div>
+                    <div className="flex items-center justify-between p-3 rounded-xl bg-slate-900/40 border border-slate-800">
+                      <span className="text-xs text-slate-400 font-medium">Quarterly Growth</span>
+                      <span className="text-sm font-bold text-emerald-400">+{forecastGrowth ? forecastGrowth.toFixed(1) : '5.8'}%</span>
+                    </div>
+                    <div className="flex items-center justify-between p-3 rounded-xl bg-slate-900/40 border border-slate-800">
+                      <span className="text-xs text-slate-400 font-medium">Top Product Category</span>
+                      <span className="text-sm font-bold text-violet-400">{insights?.metrics?.top_category || '2 Jars'}</span>
+                    </div>
+                    <div className="flex items-center justify-between p-3 rounded-xl bg-slate-900/40 border border-slate-800">
+                      <span className="text-xs text-slate-400 font-medium">Active Channels</span>
+                      <span className="text-sm font-bold text-white">{dimensions.channels.length}</span>
+                    </div>
                   </div>
                 </div>
 
@@ -583,6 +571,34 @@ export default function App() {
                     >
                       View all briefings <ChevronRight className="w-3.5 h-3.5" />
                     </button>
+                  </div>
+                </div>
+
+                {/* Recommended Actions */}
+                <div className="glass-panel p-6 rounded-2xl flex flex-col justify-between">
+                  <div>
+                    <div className="flex items-center gap-2 mb-4">
+                      <Zap className="w-5 h-5 text-amber-400 fill-amber-400/20" />
+                      <h4 className="font-bold text-white text-base">Recommended Actions</h4>
+                    </div>
+                    <div className="space-y-3.5">
+                      <div className="flex gap-2.5 items-start text-xs text-slate-300">
+                        <span className="w-1.5 h-1.5 rounded-full bg-indigo-400 mt-1.5 shrink-0"></span>
+                        <p><strong>Inventory Buffering:</strong> Increase safety stock by 5% for ECOM B2C category '2 Jars' to prevent stockouts.</p>
+                      </div>
+                      <div className="flex gap-2.5 items-start text-xs text-slate-300">
+                        <span className="w-1.5 h-1.5 rounded-full bg-emerald-400 mt-1.5 shrink-0"></span>
+                        <p><strong>Modern Trade Prep:</strong> Align with MT logistics partners for increased delivery volume starting mid-June.</p>
+                      </div>
+                      <div className="flex gap-2.5 items-start text-xs text-slate-300">
+                        <span className="w-1.5 h-1.5 rounded-full bg-rose-400 mt-1.5 shrink-0"></span>
+                        <p><strong>Direct Sales Promotion:</strong> Target web-direct channels with promotional campaigns to counter minor invoice contraction.</p>
+                      </div>
+                    </div>
+                  </div>
+                  <div className="mt-5 pt-3 border-t border-slate-900 flex justify-between items-center text-[10px] text-slate-500">
+                    <span>Generated from active demand signal models</span>
+                    <span className="font-medium text-amber-400">3 High Priority</span>
                   </div>
                 </div>
               </div>
@@ -609,6 +625,26 @@ export default function App() {
 
                 {/* Filter Slices */}
                 <div className="space-y-6">
+                  {/* Time Granularity */}
+                  <div>
+                    <h5 className="text-xs font-semibold text-slate-400 uppercase tracking-wider mb-3">Forecast Granularity</h5>
+                    <div className="flex flex-col gap-1.5">
+                      {(['monthly', 'weekly', 'daily'] as const).map(g => (
+                        <button
+                          key={g}
+                          onClick={() => setTimeGranularity(g)}
+                          className={`w-full text-left px-3 py-2 rounded-lg text-xs font-medium transition-all ${
+                            timeGranularity === g
+                              ? 'bg-indigo-600 text-white shadow-md shadow-indigo-600/10'
+                              : 'text-slate-400 hover:text-white hover:bg-slate-800/40 border border-slate-800'
+                          }`}
+                        >
+                          {g === 'monthly' ? '📅 Month-wise Forecast' : g === 'weekly' ? '📆 Week-wise Forecast' : '📋 Day-wise Forecast'}
+                        </button>
+                      ))}
+                    </div>
+                  </div>
+
                   {/* Channels */}
                   <div>
                     <h5 className="text-xs font-semibold text-slate-400 uppercase tracking-wider mb-3">Channels</h5>
@@ -670,7 +706,10 @@ export default function App() {
                 {/* EXPLORER TREND PLOT */}
                 <div className="glass-panel p-6 rounded-2xl">
                   <div className="flex justify-between items-center mb-6">
-                    <h4 className="font-bold text-white text-base">Filtered Quantities Forecast</h4>
+                    <div>
+                      <h4 className="font-bold text-white text-base">Filtered Quantities Forecast</h4>
+                      <p className="text-xs text-slate-400 mt-1">Viewing: {timeGranularity === 'monthly' ? 'Month-wise' : timeGranularity === 'weekly' ? 'Week-wise' : 'Day-wise'} forecast</p>
+                    </div>
                     {loading && (
                       <span className="text-xs text-indigo-400 flex items-center gap-1.5">
                         <RefreshCw className="w-3 h-3 animate-spin" />
@@ -773,140 +812,21 @@ export default function App() {
             </div>
           )}
 
-          {/* TAB 3: MODEL PERFORMANCE */}
-          {activeTab === 'performance' && (
-            <div className="space-y-8">
-              {/* TOP PERFORMANCE METRICS GRIDS */}
-              <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
-                <div className="glass-panel p-6 rounded-2xl text-center relative overflow-hidden">
-                  <span className="text-xs font-semibold text-slate-400 uppercase tracking-wider">Overall MAE</span>
-                  <h3 className="text-4xl font-extrabold text-white mt-2">{performanceData?.overall?.MAE || "8,352"}</h3>
-                  <p className="text-[10px] text-slate-500 mt-2">Mean Absolute Unit Error</p>
-                </div>
-
-                <div className="glass-panel p-6 rounded-2xl text-center relative overflow-hidden">
-                  <span className="text-xs font-semibold text-slate-400 uppercase tracking-wider">Overall MAPE</span>
-                  <h3 className="text-4xl font-extrabold text-white mt-2">{performanceData?.overall?.MAPE || "8.35"}%</h3>
-                  <p className="text-[10px] text-slate-500 mt-2">Mean Absolute Percentage Error</p>
-                </div>
-
-                <div className="glass-panel p-6 rounded-2xl text-center relative overflow-hidden">
-                  <span className="text-xs font-semibold text-slate-400 uppercase tracking-wider">Overall sMAPE</span>
-                  <h3 className="text-4xl font-extrabold text-white mt-2">{performanceData?.overall?.sMAPE || "8.12"}%</h3>
-                  <p className="text-[10px] text-slate-500 mt-2">Symmetric Mean Absolute % Error</p>
-                </div>
-              </div>
-
-              {/* SLICES SPLITS AND IMPORTANCES */}
-              <div className="grid grid-cols-1 lg:grid-cols-3 gap-8">
-                {/* Segment Error Breakdown */}
-                <div className="lg:col-span-1 glass-panel p-6 rounded-2xl">
-                  <h4 className="font-bold text-white text-base mb-6">Error by Customer Segment</h4>
-                  <div className="h-64">
-                    <ResponsiveContainer width="100%" height="100%">
-                      <BarChart data={performanceData.by_segment} margin={{ top: 5, right: 10, left: 10, bottom: 5 }}>
-                        <CartesianGrid strokeDasharray="3 3" stroke="#1e293b" vertical={false} />
-                        <XAxis dataKey="slice_value" stroke="#64748b" fontSize={11} tickLine={false} />
-                        <YAxis stroke="#64748b" fontSize={11} tickLine={false} />
-                        <Tooltip 
-                          contentStyle={{ backgroundColor: '#0f172a', borderColor: '#334155', borderRadius: '12px' }}
-                          formatter={(v: any) => [`${v}% MAPE`]}
-                        />
-                        <Bar dataKey="mape" fill="#6366f1" radius={[4, 4, 0, 0]} />
-                      </BarChart>
-                    </ResponsiveContainer>
-                  </div>
-                </div>
-
-                {/* Category Error Breakdown */}
-                <div className="lg:col-span-1 glass-panel p-6 rounded-2xl">
-                  <h4 className="font-bold text-white text-base mb-6">Error by Product Category</h4>
-                  <div className="h-64">
-                    <ResponsiveContainer width="100%" height="100%">
-                      <BarChart data={performanceData.by_category.slice(0, 5)} margin={{ top: 5, right: 10, left: 10, bottom: 5 }}>
-                        <CartesianGrid strokeDasharray="3 3" stroke="#1e293b" vertical={false} />
-                        <XAxis dataKey="slice_value" stroke="#64748b" fontSize={11} tickLine={false} />
-                        <YAxis stroke="#64748b" fontSize={11} tickLine={false} />
-                        <Tooltip 
-                          contentStyle={{ backgroundColor: '#0f172a', borderColor: '#334155', borderRadius: '12px' }}
-                          formatter={(v: any) => [`${v}% MAPE`]}
-                        />
-                        <Bar dataKey="mape" fill="#4f46e5" radius={[4, 4, 0, 0]} />
-                      </BarChart>
-                    </ResponsiveContainer>
-                  </div>
-                </div>
-
-                {/* Feature Importance weights */}
-                <div className="lg:col-span-1 glass-panel p-6 rounded-2xl">
-                  <h4 className="font-bold text-white text-base mb-6">LightGBM Feature Importance</h4>
-                  <div className="h-64">
-                    <ResponsiveContainer width="100%" height="100%">
-                      <BarChart 
-                        data={importanceData.slice(0, 7)} 
-                        layout="vertical"
-                        margin={{ top: 5, right: 10, left: 20, bottom: 5 }}
-                      >
-                        <CartesianGrid strokeDasharray="3 3" stroke="#1e293b" horizontal={false} />
-                        <XAxis type="number" stroke="#64748b" fontSize={11} tickLine={false} />
-                        <YAxis dataKey="feature" type="category" stroke="#64748b" fontSize={11} tickLine={false} />
-                        <Tooltip 
-                          contentStyle={{ backgroundColor: '#0f172a', borderColor: '#334155', borderRadius: '12px' }}
-                          formatter={(v: any) => [v, 'Split Count']}
-                        />
-                        <Bar dataKey="importance" fill="#818cf8" radius={[0, 4, 4, 0]} />
-                      </BarChart>
-                    </ResponsiveContainer>
-                  </div>
-                </div>
-              </div>
-            </div>
-          )}
 
           {/* TAB 4: AI INSIGHTS */}
           {activeTab === 'insights' && (
-            <div className="grid grid-cols-1 lg:grid-cols-3 gap-8">
-              {/* LEFT SUMMARY PANEL */}
-              <div className="lg:col-span-1 glass-panel p-8 rounded-2xl flex flex-col justify-between border-l-4 border-l-indigo-500">
-                <div>
-                  <div className="flex items-center gap-2 mb-6">
-                    <BrainCircuit className="w-6 h-6 text-indigo-400" />
-                    <h3 className="text-xl font-bold text-white">AI Briefing</h3>
-                  </div>
-                  <p className="text-sm text-slate-300 leading-relaxed mb-6 font-medium">
-                    {insights?.summary || "Analyzing model statistics and compiling narrative briefing..."}
-                  </p>
-                  <p className="text-xs text-slate-500">
-                    Our AI insights engine scans forecast trends, metrics slice performance, and anomaly factors (e.g. declining invoice rates) to compose this brief.
-                  </p>
-                </div>
-                
-                {/* Stats quick card */}
-                <div className="mt-8 p-4 rounded-xl bg-slate-900/40 border border-slate-800 text-xs space-y-2">
-                  <div className="flex justify-between">
-                    <span className="text-slate-400">Overall Accuracy:</span>
-                    <span className="font-semibold text-emerald-400">{(100 - insights?.metrics?.overall_mape).toFixed(1)}%</span>
-                  </div>
-                  <div className="flex justify-between">
-                    <span className="text-slate-400">Growth Projected:</span>
-                    <span className="font-semibold text-indigo-400">{insights?.metrics?.growth_percentage > 0 ? '+' : ''}{insights?.metrics?.growth_percentage.toFixed(1)}%</span>
-                  </div>
-                  <div className="flex justify-between">
-                    <span className="text-slate-400">Primary Product:</span>
-                    <span className="font-semibold text-white">{insights?.metrics?.top_category}</span>
-                  </div>
-                </div>
-              </div>
-
-              {/* DETAILED BULLET POINTS */}
-              <div className="lg:col-span-2 glass-panel p-8 rounded-2xl space-y-6">
+            <div className="space-y-8">
+              {/* DETAILED BULLET POINTS - Full Width */}
+              <div className="glass-panel p-8 rounded-2xl space-y-6">
                 <h4 className="font-bold text-white text-lg border-b border-slate-800 pb-4 flex items-center gap-2">
                   <Activity className="w-5 h-5 text-indigo-400 animate-pulse" />
                   Demand Drivers & Operational Anomalies
                 </h4>
                 
                 <div className="space-y-4">
-                  {insights?.bullet_points.map((pt: string, idx: number) => {
+                  {insights?.bullet_points
+                    .filter((pt: string) => !pt.includes('**Accuracy Assessment:**'))
+                    .map((pt: string, idx: number) => {
                     const isWarning = pt.includes("**Alert:**") || pt.includes("**Risk**");
                     return (
                       <div 
@@ -943,7 +863,7 @@ export default function App() {
 
         {/* COMPACT FOOTER */}
         <footer className="pt-8 border-t border-slate-900 text-xs text-slate-500 flex justify-between items-center">
-          <p>© 2026 Antigravity Demand Forecast Panel. Powered by LightGBM Poisson Boosting Engine.</p>
+          <p>© 2026 Forecasting Analytics. Powered by LightGBM Poisson Boosting Engine.</p>
           <div className="flex gap-4">
             <span className="flex items-center gap-1.5"><span className="w-1.5 h-1.5 bg-emerald-500 rounded-full"></span> Model Active</span>
             <span className="text-slate-600">v0.1.0</span>

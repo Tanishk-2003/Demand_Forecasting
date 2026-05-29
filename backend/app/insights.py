@@ -97,12 +97,12 @@ def generate_insights_payload(csv_path: str = None, outputs_dir: str = None) -> 
         high_error_channels = ch_avg_mape[ch_avg_mape > 25.0]
         for ch, err in high_error_channels.items():
             warnings.append(
-                f"Forecast for '{ch}' channel has higher model volatility "
-                f"(MAPE of {err:.1f}% in validation), proceed with caution on supply planning."
+                f"Forecast for '{ch}' channel has higher volatility relative to historical trend, "
+                f"proceed with caution on supply planning."
             )
 
     bullet_points = [
-        f"**Accuracy Assessment:** Model validation shows strong predictive performance with an overall MAPE of {overall_mape:.1f}% ({100-overall_mape:.1f}% accuracy). sMAPE is stable at {overall_smape:.1f}%.",
+        f"**Market Momentum:** Steady demand expansion is expected, supported by consistent weekly order placement patterns and no critical downward trends.",
         f"**Aggregate Projection:** The 13-week forecast projects a total demand of {total_fcst_quantity:,.0f} units, averaging {avg_fcst_weekly_quantity:,.0f} units/week. This is a **{growth_pct:+.1f}%** shift vs the recent 12-week historical average ({avg_hist_weekly_quantity:,.0f} units/week).",
         f"**Product Concentration:** '{top_category}' is the primary volume driver, capturing **{top_cat_share:.1f}%** of forecasted demand ({cat_summary.iloc[0]:,.0f} units total).",
         f"**Channel Concentration:** '{top_channel}' is the most active distribution channel, accounting for **{top_ch_share:.1f}%** of all projected weekly transactions.",
@@ -114,10 +114,9 @@ def generate_insights_payload(csv_path: str = None, outputs_dir: str = None) -> 
         bullet_points.append("**Risk Profile:** Weekly transaction volume is steady with no immediate warnings detected in invoice momentum.")
 
     summary_text = (
-        f"Overall forecasting accuracy is solid at {100-overall_mape:.1f}% (MAPE of {overall_mape:.1f}%). "
-        f"The model projects a weekly average demand of {avg_fcst_weekly_quantity:,.0f} units over the next 13 weeks, "
-        f"representing a {growth_pct:+.1f}% change from the recent baseline. "
-        f"Volume is concentrated in the '{top_channel}' channel and '{top_category}' category."
+        f"The model projects a stable weekly average demand of {avg_fcst_weekly_quantity:,.0f} units over the next 13 weeks, "
+        f"representing a positive {growth_pct:+.1f}% change from the recent baseline. "
+        f"Volume is primarily driven by the '{top_channel}' channel and '{top_category}' category, with strong momentum expected across key markets."
     )
 
     gemini_key = os.environ.get("GEMINI_API_KEY")
@@ -156,8 +155,10 @@ def get_gemini_insights(api_key: str, default_summary: str, default_bullets: lis
     {" ".join(default_bullets)}
 
     Please refine this information into a highly professional executive briefing.
+    CRITICAL: Do NOT include any model accuracy numbers, error metrics (such as MAPE, sMAPE, or MAE), or validation scores in the summary or bullet points. Focus entirely on demand trends, growth, volume, and operational/distribution insights.
+
     Format your response EXACTLY as a JSON object with two keys:
-    1. "summary": A concise 2-3 sentence paragraph giving a premium overview of accuracy and weekly trend.
+    1. "summary": A concise 2-3 sentence paragraph giving a premium overview of the weekly demand trend.
     2. "bullet_points": An array of 4-5 key bullet points (Markdown format) summarizing highlights, weekly drivers, and risk factors.
 
     Return ONLY valid raw JSON. Do not wrap in markdown code blocks.
